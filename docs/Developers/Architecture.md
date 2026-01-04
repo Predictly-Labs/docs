@@ -10,18 +10,15 @@ Predictly uses a **hybrid on-chain/off-chain architecture** to balance decentral
 │                   (Browser / Mobile / Wallet)                    │
 └────────────────────────────┬────────────────────────────────────┘
                              │
-              ┌──────────────┴──────────────┐
-              │                             │
-              ▼                             ▼
-┌──────────────────────┐        ┌──────────────────────┐
-│    PRIVY AUTH        │        │  WALLET CONNECTION   │
-│                      │        │  (Petra/Nightly)     │
-│  - Email Login       │        │                      │
-│  - Social Login      │        │  - Sign Transactions │
-│  - Embedded Wallet   │        │  - View Balances     │
-└──────────────────────┘        └──────────────────────┘
-              │                             │
-              └──────────────┬──────────────┘
+                             ▼
+              ┌──────────────────────────────┐
+              │    WALLET CONNECTION         │
+              │  (Nightly/Petra/Martian)     │
+              │                              │
+              │  - Sign Transactions         │
+              │  - View Balances             │
+              │  - Manage Assets             │
+              └──────────────┬───────────────┘
                              │
                              ▼
 ┌─────────────────────────────────────────────────────────────────┐
@@ -51,9 +48,9 @@ Predictly uses a **hybrid on-chain/off-chain architecture** to balance decentral
 │  │  /api/groups     │  │    │  │  - Market Logic  │  │
 │  │  /api/users      │  │    │  │  - Escrow        │  │
 │  │  /api/markets    │  │    │  │  - Rewards       │  │
-│  │  /api/upload     │  │    │  │  - Yield Pools   │  │
-│  └──────────────────┘  │    │  │  - NFT Roles     │  │
-│                        │    │  └──────────────────┘  │
+│  │  /api/upload     │  │    │  │  - Resolution    │  │
+│  └──────────────────┘  │    │  └──────────────────┘  │
+│                        │    │                        │
 │  ┌──────────────────┐  │    │                        │
 │  │    Services      │◄─┼────┼──  Events              │
 │  │                  │  │    │                        │
@@ -73,7 +70,7 @@ Predictly uses a **hybrid on-chain/off-chain architecture** to balance decentral
 │  - Users       │    │  - Images      │
 │  - Groups      │    │  - Avatars     │
 │  - Markets     │    │  - Icons       │
-│  - Votes       │    │  - NFT Data    │
+│  - Votes       │    │  - Metadata    │
 │  - Leaderboard │    │                │
 └────────────────┘    └────────────────┘
 ```
@@ -87,7 +84,7 @@ Predictly uses a **hybrid on-chain/off-chain architecture** to balance decentral
 | **Database**   | PostgreSQL + Prisma     | Off-chain data storage     |
 | **Storage**    | Pinata IPFS             | Decentralized file storage |
 | **Blockchain** | Movement Network (Move) | Markets, stakes, rewards   |
-| **Auth**       | Privy                   | Web2-like authentication   |
+| **Wallets**    | Nightly, Petra, Martian | Web3 wallet integration    |
 
 ## Data Ownership
 
