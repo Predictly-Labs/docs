@@ -1,31 +1,52 @@
 # Table of contents
 
-* [Table of Contents](README.md)
-* [Introduction](docs/Introduction/README.md)
-  * [Overview](docs/Introduction/Overview.md)
-  * [Problem and Solution](docs/Introduction/Problem-and-Solution.md)
-  * [Key Features](docs/Introduction/Key-Features.md)
-  * [How It Works](docs/Introduction/How-It-Works.md)
-* [Mission](docs/Mission/README.md)
-  * [Why Decentralized Prediction Markets?](docs/Mission/Why-Decentralized.md)
-  * [Social-First Approach](docs/Mission/Social-First.md)
-  * [Roadmap](docs/Mission/Roadmap.md)
-* [Products](docs/Products/README.md)
-  * [Prediction Markets](docs/Products/Prediction-Markets/README.md)
-    * [Full Degen Markets](docs/Products/Prediction-Markets/Full-Degen.md)
-    * [Zero Loss Markets](docs/Products/Prediction-Markets/Zero-Loss.md)
-    * [Private Markets](docs/Products/Prediction-Markets/Private.md)
-  * [Groups & Communities](docs/Products/Groups.md)
-  * [Judge System](docs/Products/Judge-System.md)
-* [How Predictly Works](docs/How-It-Works/README.md)
-  * [Getting Started](docs/How-It-Works/Getting-Started.md)
-  * [Wallet Setup](docs/How-It-Works/Wallet-Setup.md)
-  * [Creating Markets](docs/How-It-Works/Creating-Markets.md)
-  * [Voting Guide](docs/How-It-Works/Voting-Guide.md)
-  * [Claiming Rewards](docs/How-It-Works/Claiming-Rewards.md)
-* [Developers](docs/Developers/README.md)
-  * [Architecture](docs/Developers/Architecture.md)
-* [Deployments](docs/Deployments/README.md)
-  * [Contract Addresses](docs/Deployments/Contract-Addresses.md)
-* [Resources](docs/Resources/README.md)
-  * [External Links & Resources](docs/Resources/Links.md)
+- [Welcome](README.md)
+
+## INTRODUCTION
+
+- [Introduction](Introduction/README.md)
+  - [Overview](Introduction/Overview.md)
+  - [Problem and Solution](Introduction/Problem-and-Solution.md)
+  - [Key Features](Introduction/Key-Features.md)
+  - [How It Works](Introduction/How-It-Works.md)
+
+## MISSION
+
+- [Mission](Mission/README.md)
+  - [Why Decentralized Prediction Markets?](Mission/Why-Decentralized.md)
+  - [Social-First Approach](Mission/Social-First.md)
+  - [Roadmap](Mission/Roadmap.md)
+
+## PRODUCTS
+
+- [Products](Products/README.md)
+  - [Prediction Markets](Products/Prediction-Markets/README.md)
+    - [Full Degen Markets](Products/Prediction-Markets/Full-Degen.md)
+    - [Zero Loss Markets](Products/Prediction-Markets/Zero-Loss.md)
+    - [Private Markets](Products/Prediction-Markets/Private.md)
+  - [Groups & Communities](Products/Groups.md)
+  - [Judge System](Products/Judge-System.md)
+
+## HOW PREDICTLY WORKS
+
+- [How Predictly Works](How-It-Works/README.md)
+  - [Getting Started](How-It-Works/Getting-Started.md)
+  - [Wallet Setup](How-It-Works/Wallet-Setup.md)
+  - [Creating Markets](How-It-Works/Creating-Markets.md)
+  - [Voting Guide](How-It-Works/Voting-Guide.md)
+  - [Claiming Rewards](How-It-Works/Claiming-Rewards.md)
+
+## DEVELOPERS
+
+- [Developers](Developers/README.md)
+  - [Architecture](Developers/Architecture.md)
+
+## DEPLOYMENTS
+
+- [Deployments](Deployments/README.md)
+  - [Contract Addresses](Deployments/Contract-Addresses.md)
+
+## RESOURCES
+
+- [Resources](Resources/README.md)
+  - [External Links](Resources/Links.md)
