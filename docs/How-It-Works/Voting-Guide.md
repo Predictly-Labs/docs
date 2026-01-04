@@ -515,7 +515,7 @@ Criteria: By end of 2025 only
 
 - Deadline passed
 - Waiting for judge
-- Resolution coming soon
+- Waiting for judge resolution
 
 **✅ WON**
 

@@ -4,7 +4,7 @@
 
 Zero Loss Markets use **DeFi yield farming** to protect your principal. You never lose your stake - only the yield is distributed as rewards.
 
-> **Status:** Coming Soon (Post-Hackathon)
+> **Status:** Planned Feature (Roadmap Q1 2025)
 
 ## How It Works
 
@@ -181,9 +181,9 @@ Yield Pool (distributed to winners)
 
 ---
 
-**Status:** Coming Soon  
+**Status:** Planned Roadmap Feature  
 **Expected Launch:** Q1 2025  
-**Current:** Available on testnet for testing
+**Current Focus:** Full Degen and Private Markets are live on testnet
 
 ---
 

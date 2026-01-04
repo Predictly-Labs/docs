@@ -107,7 +107,7 @@ When voting closes.
 - High risk, high reward
 - Most popular
 
-#### Zero Loss (Coming Soon)
+#### Zero Loss (Planned Q1 2025)
 
 - Stakes earn yield
 - Only yield distributed

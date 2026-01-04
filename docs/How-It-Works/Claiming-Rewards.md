@@ -174,7 +174,7 @@ ROI: +25%
 - Approve each transaction
 - Slower but more control
 
-**Option 2: Claim All (Coming Soon)**
+**Option 2: Claim All (Planned Feature)**
 
 - Single transaction for all wins
 - Saves time and gas

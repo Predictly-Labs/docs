@@ -13,9 +13,9 @@
 
 ## Movement Mainnet
 
-| Property | Value       |
-| -------- | ----------- |
-| Status   | Coming Soon |
+| Property | Value           |
+| -------- | --------------- |
+| Status   | Live on Testnet |
 
 ## Backend API
 
