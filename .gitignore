@@ -5,5 +5,9 @@
 !docs/
 !docs/**
 
+# But ignore these files in docs
+docs/REMAINING_TASKS.md
+docs/.gitignore
+
 # And gitignore itself
 !.gitignore
