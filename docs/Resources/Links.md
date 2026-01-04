@@ -1,8 +1,21 @@
 # External Links & Resources
 
-## Official Links
+## Official Predictly Links
 
-### Movement Network
+| Link              | URL                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------- |
+| **Deployment**    | [predictly-movement.vercel.app](https://predictly-movement.vercel.app)             |
+| **Backend API**   | [backend-3ufs.onrender.com](https://backend-3ufs.onrender.com)                     |
+| **GitHub**        | [github.com/Predictly-Labs](https://github.com/Predictly-Labs)                     |
+| **Documentation** | [predictly-labs.gitbook.io](https://predictly-labs.gitbook.io/predictly-labs-docs) |
+| **Demo Video**    | Coming Soon                                                                        |
+| **Pitch Deck**    | Coming Soon                                                                        |
+
+---
+
+## Movement Network
+
+### Official Resources
 
 - [Developer Documentation](http://developer.movementnetwork.xyz)
 - [Network Endpoints](https://docs.movementnetwork.xyz/devs/networkEndpoints)
@@ -18,6 +31,8 @@
 
 - [Pyth Network](https://www.pyth.network/)
 
+---
+
 ## Hackathon Information
 
 ### M1 Hackathon
@@ -30,7 +45,12 @@
 - Best Consumer App built on Movement
 - The People's Choice
 
-## Technology Stack
+---
+
+## Other Resources
+
+<details>
+<summary>Technology Stack</summary>
 
 ### Frontend
 
@@ -58,29 +78,18 @@
 
 - [Pinata (IPFS)](https://www.pinata.cloud/)
 - [Privy (Auth)](https://www.privy.io/)
+</details>
 
-## Wallets
-
-### Supported Wallets
+<details>
+<summary>Supported Wallets</summary>
 
 - [Nightly Wallet](https://wallet.nightly.app/)
 - [Petra Wallet](https://petra.app/)
 - [Martian Wallet](https://martianwallet.xyz/)
+</details>
 
-## Community
-
-### Social Media
-
-- Discord: Coming Soon
-- Twitter/X: Coming Soon
-- GitHub: Coming Soon
-
-### Support
-
-- Email: Coming Soon
-- Telegram: Coming Soon
-
-## Developer Tools
+<details>
+<summary>Developer Tools</summary>
 
 ### Movement Network Tools
 
@@ -93,22 +102,47 @@
 - [Aptos CLI](https://aptos.dev/tools/aptos-cli/)
 - [Move Prover](https://github.com/move-language/move/tree/main/language/move-prover)
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer)
-
-## Documentation
-
-### Internal Docs
-
-- [Architecture](../Developers/Architecture.md)
-- [Smart Contracts](../Developers/Smart-Contracts/README.md)
-- [Backend API](../Developers/Backend-API/README.md)
-- [Database Schema](../Developers/Database-Schema.md)
-
-### Guides
-
-- [Getting Started](../How-It-Works/Getting-Started.md)
-- [Creating Markets](../How-It-Works/Creating-Markets.md)
-- [Voting Guide](../How-It-Works/Voting-Guide.md)
+</details>
 
 ---
 
-**Note:** This page contains external links and resources. For internal documentation, see the navigation menu.
+## Community & Support
+
+### Social Media
+
+- Discord: Coming Soon
+- Twitter/X: Coming Soon
+- Telegram: Coming Soon
+
+### Support
+
+- Email: Coming Soon
+- GitHub Issues: [github.com/Predictly-Labs](https://github.com/Predictly-Labs)
+
+---
+
+## Internal Documentation
+
+### For Users
+
+- [Getting Started](../How-It-Works/Getting-Started.md)
+- [Wallet Setup](../How-It-Works/Wallet-Setup.md)
+- [Creating Markets](../How-It-Works/Creating-Markets.md)
+- [Voting Guide](../How-It-Works/Voting-Guide.md)
+- [Claiming Rewards](../How-It-Works/Claiming-Rewards.md)
+
+### For Developers
+
+- [Architecture](../Developers/Architecture.md)
+- [Smart Contracts](../Developers/README.md)
+- [Backend API](../Developers/README.md)
+
+### Other
+
+- [Products](../Products/README.md)
+- [Mission](../Mission/README.md)
+- [Deployments](../Deployments/README.md)
+
+---
+
+**Last Updated:** January 2026
