@@ -2,9 +2,9 @@
 
 ## Official Predictly Links
 
-| Link              | URL                                                                                |
+| Resource          | URL                                                                                |
 | ----------------- | ---------------------------------------------------------------------------------- |
-| **Deployment**    | [predictly-movement.vercel.app](https://predictly-movement.vercel.app)             |
+| **Live App**      | [predictly-movement.vercel.app](https://predictly-movement.vercel.app)             |
 | **Backend API**   | [backend-3ufs.onrender.com](https://backend-3ufs.onrender.com)                     |
 | **GitHub**        | [github.com/Predictly-Labs](https://github.com/Predictly-Labs)                     |
 | **Documentation** | [predictly-labs.gitbook.io](https://predictly-labs.gitbook.io/predictly-labs-docs) |
@@ -13,30 +13,24 @@
 
 ## Movement Network
 
-### Official Resources
-
-- [Developer Documentation](http://developer.movementnetwork.xyz)
-- [Network Endpoints](https://docs.movementnetwork.xyz/devs/networkEndpoints)
-- [Explorer (Testnet)](https://explorer.movementnetwork.xyz/?network=bardock+testnet)
-- [Faucet (Get Test Tokens)](https://faucet.movementnetwork.xyz/)
-
-### Learning Resources
-
-- [Movement by Example](https://movement-by-example.vercel.app/getting-started/first-contract)
-- [Aptos Book](https://aptos-book.com/getting_started/hello_aptos_cli.html)
-
-### Oracles & Data
-
-- [Pyth Network](https://www.pyth.network/)
+| Resource                | URL                                                                                                      |
+| ----------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Developer Docs**      | [developer.movementnetwork.xyz](http://developer.movementnetwork.xyz)                                    |
+| **Network Endpoints**   | [docs.movementnetwork.xyz/devs/networkEndpoints](https://docs.movementnetwork.xyz/devs/networkEndpoints) |
+| **Explorer (Testnet)**  | [explorer.movementnetwork.xyz](https://explorer.movementnetwork.xyz/?network=bardock+testnet)            |
+| **Faucet**              | [faucet.movementnetwork.xyz](https://faucet.movementnetwork.xyz/)                                        |
+| **Movement by Example** | [movement-by-example.vercel.app](https://movement-by-example.vercel.app/getting-started/first-contract)  |
+| **Aptos Book**          | [aptos-book.com](https://aptos-book.com/getting_started/hello_aptos_cli.html)                            |
+| **Pyth Network**        | [pyth.network](https://www.pyth.network/)                                                                |
 
 ---
 
 ## Hackathon Information
 
-### M1 Hackathon
-
-- [Encode Club Notion](https://encodeclub.notion.site/14a6c123e77d81c695b4d54406753eae?v=14a6c123e77d810a9116000c21554101)
-- [Mammothon Prediction Market](https://encodeclub.notion.site/mammothon-prediction-market-for-friend-groups-movement)
+| Resource        | URL                                                                                                                          |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Encode Club** | [encodeclub.notion.site](https://encodeclub.notion.site/14a6c123e77d81c695b4d54406753eae?v=14a6c123e77d810a9116000c21554101) |
+| **Mammothon**   | [Prediction Market Project](https://encodeclub.notion.site/mammothon-prediction-market-for-friend-groups-movement)           |
 
 **Tracks:**
 
@@ -45,68 +39,71 @@
 
 ---
 
-## Other Resources
+## Technology Stack
 
-<details>
+### Frontend
 
-<summary>Technology Stack</summary>
+| Technology        | URL                                                 |
+| ----------------- | --------------------------------------------------- |
+| **Next.js 16**    | [nextjs.org](https://nextjs.org/)                   |
+| **React 19**      | [react.dev](https://react.dev/)                     |
+| **Tailwind CSS**  | [tailwindcss.com](https://tailwindcss.com/)         |
+| **Framer Motion** | [framer.com/motion](https://www.framer.com/motion/) |
+| **Recharts**      | [recharts.org](https://recharts.org/)               |
 
-#### Frontend
+### Backend
 
-- [Next.js 16](https://nextjs.org/)
-- [React 19](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [Recharts](https://recharts.org/)
+| Technology     | URL                                                   |
+| -------------- | ----------------------------------------------------- |
+| **Node.js**    | [nodejs.org](https://nodejs.org/)                     |
+| **Express.js** | [expressjs.com](https://expressjs.com/)               |
+| **TypeScript** | [typescriptlang.org](https://www.typescriptlang.org/) |
+| **Prisma ORM** | [prisma.io](https://www.prisma.io/)                   |
+| **PostgreSQL** | [postgresql.org](https://www.postgresql.org/)         |
 
-#### Backend
+### Blockchain
 
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Prisma ORM](https://www.prisma.io/)
-- [PostgreSQL](https://www.postgresql.org/)
+| Technology           | URL                                                              |
+| -------------------- | ---------------------------------------------------------------- |
+| **Movement Network** | [movementnetwork.xyz](https://movementnetwork.xyz/)              |
+| **Move Language**    | [move-language.github.io](https://move-language.github.io/move/) |
+| **Aptos SDK**        | [aptos.dev](https://aptos.dev/)                                  |
 
-#### Blockchain
+### Storage & Services
 
-- [Movement Network](https://movementnetwork.xyz/)
-- [Move Language](https://move-language.github.io/move/)
-- [Aptos SDK](https://aptos.dev/)
+| Service           | URL                                       |
+| ----------------- | ----------------------------------------- |
+| **Pinata (IPFS)** | [pinata.cloud](https://www.pinata.cloud/) |
 
-#### Storage & Auth
+---
 
-- [Pinata (IPFS)](https://www.pinata.cloud/)
-- [Privy (Auth)](https://www.privy.io/)
+## Supported Wallets
 
-</details>
+| Wallet             | URL                                               |
+| ------------------ | ------------------------------------------------- |
+| **Nightly Wallet** | [wallet.nightly.app](https://wallet.nightly.app/) |
+| **Petra Wallet**   | [petra.app](https://petra.app/)                   |
+| **Martian Wallet** | [martianwallet.xyz](https://martianwallet.xyz/)   |
 
-<details>
+---
 
-<summary>Supported Wallets</summary>
+## Developer Tools
 
-- [Nightly Wallet](https://wallet.nightly.app/)
-- [Petra Wallet](https://petra.app/)
-- [Martian Wallet](https://martianwallet.xyz/)
+### Movement Network
 
-</details>
+| Tool                  | URL                                                                            |
+| --------------------- | ------------------------------------------------------------------------------ |
+| **Movement CLI**      | [docs.movementnetwork.xyz/devs/cli](https://docs.movementnetwork.xyz/devs/cli) |
+| **Movement Explorer** | [explorer.movementnetwork.xyz](https://explorer.movementnetwork.xyz/)          |
+| **Faucet**            | [faucet.movementnetwork.xyz](https://faucet.movementnetwork.xyz/)              |
 
-<details>
+### Development
 
-<summary>Developer Tools</summary>
-
-#### Movement Network Tools
-
-- [Movement CLI](https://docs.movementnetwork.xyz/devs/cli)
-- [Movement Explorer](https://explorer.movementnetwork.xyz/)
-- [Faucet](https://faucet.movementnetwork.xyz/)
-
-#### Development
-
-- [Aptos CLI](https://aptos.dev/tools/aptos-cli/)
-- [Move Prover](https://github.com/move-language/move/tree/main/language/move-prover)
-- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer)
-
-</details>
+| Tool                  | URL                                                                                   |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| **Aptos CLI**         | [aptos.dev/tools/aptos-cli](https://aptos.dev/tools/aptos-cli/)                       |
+| **Move Prover**       | [GitHub](https://github.com/move-language/move/tree/main/language/move-prover)        |
+| **VS Code Extension** | [Marketplace](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer) |
 
 ---
 
@@ -116,30 +113,6 @@ For support and questions:
 
 - GitHub Issues: [github.com/Predictly-Labs](https://github.com/Predictly-Labs)
 - Documentation: [GitBook Docs](https://predictly-labs.gitbook.io/predictly-labs-docs)
-
----
-
-## Internal Documentation
-
-### For Users
-
-- [Getting Started](../How-It-Works/Getting-Started.md)
-- [Wallet Setup](../How-It-Works/Wallet-Setup.md)
-- [Creating Markets](../How-It-Works/Creating-Markets.md)
-- [Voting Guide](../How-It-Works/Voting-Guide.md)
-- [Claiming Rewards](../How-It-Works/Claiming-Rewards.md)
-
-### For Developers
-
-- [Architecture](../Developers/Architecture.md)
-- [Smart Contracts](../Developers/)
-- [Backend API](../Developers/)
-
-### Other
-
-- [Products](../Products/)
-- [Mission](../Mission/)
-- [Deployments](../Deployments/)
 
 ---
 
