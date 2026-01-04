@@ -7,6 +7,7 @@
 
 # But ignore these files in docs
 docs/REMAINING_TASKS.md
+docs/assets/
 
 # Allow GitBook config
 !.gitbook.yaml
