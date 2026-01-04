@@ -1,12 +1,14 @@
 # Overview
 
+<div align="center"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+
+> <p align="center"><em>Where Prediction Market Meets Group Friends - Built with $MOVE</em></p>
+
 ## What is Predictly?
 
 Predictly is a decentralized prediction market platform built on Movement Network. Users can create and participate in prediction markets with friends and communities, staking MOVE tokens on YES/NO outcomes.
 
 **Live Demo:** [predictly-movement.vercel.app](https://predictly-movement.vercel.app)
-
-_Where Prediction Market Meets Group Friends - Built with $MOVE_
 
 ## Why Movement Network?
 
@@ -14,11 +16,11 @@ Movement Network provides fast, low-cost transactions ideal for prediction marke
 
 ## Core Features
 
-- **Prediction Markets** - Create YES/NO markets on any topic
-- **Group Communities** - Private prediction groups with invite codes
-- **Wallet Integration** - Support for Nightly, Petra, and Martian wallets
-- **Judge System** - Fair market resolution through trusted judges
-- **Free Market Creation** - No gas fees to create markets
+* **Prediction Markets** - Create YES/NO markets on any topic
+* **Group Communities** - Private prediction groups with invite codes
+* **Wallet Integration** - Support for Nightly, Petra, and Martian wallets
+* **Judge System** - Fair market resolution through trusted judges
+* **Free Market Creation** - No gas fees to create markets
 
 ## Platform Architecture
 
