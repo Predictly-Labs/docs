@@ -1,20 +1,20 @@
 # Table of Contents
 
-## INTRODUCTION
+## Introduction
 
 * [Introduction](docs/Introduction/)
   * [Overview](docs/Introduction/Overview.md)
   * [Problem and Solution](docs/Introduction/Problem-and-Solution.md)
   * [Key Features](docs/Introduction/Key-Features.md)
 
-## MISSION
+## Mission
 
 * [Mission](docs/Mission/)
   * [Why Decentralized Prediction Markets](docs/Mission/Why-Decentralized.md)
   * [Social-First Approach](docs/Mission/Social-First.md)
   * [Roadmap](docs/Mission/Roadmap.md)
 
-## PRODUCTS
+## Products
 
 * [Products](docs/Products/)
   * [Prediction Markets](docs/Products/Prediction-Markets/)
@@ -24,7 +24,7 @@
   * [Groups & Communities](docs/Products/Groups.md)
   * [Judge System](docs/Products/Judge-System.md)
 
-## HOW PREDICTLY WORKS
+## How Predictly Works
 
 * [How Predictly Works](docs/How-It-Works/)
   * [Getting Started](docs/How-It-Works/Getting-Started.md)
@@ -33,7 +33,7 @@
   * [Voting Guide](docs/How-It-Works/Voting-Guide.md)
   * [Claiming Rewards](docs/How-It-Works/Claiming-Rewards.md)
 
-## DEVELOPERS
+## Developers
 
 * [Developers](docs/Developers/)
   * [Architecture](docs/Developers/Architecture.md)
@@ -47,13 +47,13 @@
     * [Endpoints](docs/Developers/Backend-API/Endpoints.md)
   * [Database Schema](docs/Developers/Database-Schema.md)
 
-## DEPLOYMENTS
+## Deployments
 
 * [Deployments](docs/Deployments/)
   * [Contract Addresses](docs/Deployments/Contract-Addresses.md)
   * [Network Information](docs/Deployments/Network-Info.md)
 
-## RESOURCES
+## Resources
 
 * [Resources](docs/Resources/)
   * [External Links](docs/Resources/Links.md)
