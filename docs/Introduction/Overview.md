@@ -32,16 +32,3 @@ Movement Network provides fast, low-cost transactions ideal for prediction marke
 | Contract | `0x9161980be9b78e96ddae98ceb289f6f4cda5e4af70667667ff9af8438a94e565` |
 | Currency | MOVE                                                                 |
 
-## Choose Your Path
-
-**For Users:**
-
-* [Quick Start Guide](/broken/pages/kdmn4R8P7VLG3TX9uzzj) - Get started in 5 minutes
-* [Wallet Setup](/broken/pages/ZXrAoSLxQvjThBwVGXni) - Set up your wallet
-* [How to Vote](/broken/pages/4r3zDHRbVgzTznwx6aSY) - Learn about markets
-
-**For Developers:**
-
-* [Smart Contracts](/broken/pages/eEEEwGoqD15GBxQJdqDp) - Contract documentation
-* [Backend API](/broken/pages/kM1zwdGXyeji3kKo4oRO) - API reference
-* [Contract Addresses](../Deployments/Contract-Addresses.md) - Deployment info
