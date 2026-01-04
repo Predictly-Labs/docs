@@ -10,13 +10,13 @@ Welcome to Predictly documentation!
 
 ## MISSION
 
-- [Why Decentralized Prediction Markets](Mission/Why-Decentralized.md)
+- [Why Decentralized Prediction Markets?](Mission/Why-Decentralized.md)
 - [Social-First Approach](Mission/Social-First.md)
 - [Roadmap](Mission/Roadmap.md)
 
 ## PRODUCTS
 
-- [Prediction Markets](Products/Prediction-Markets/Full-Degen.md)
+- [Prediction Markets](Products/Prediction-Markets/README.md)
   - [Full Degen Markets](Products/Prediction-Markets/Full-Degen.md)
   - [Zero Loss Markets](Products/Prediction-Markets/Zero-Loss.md)
   - [Private Markets](Products/Prediction-Markets/Private.md)
