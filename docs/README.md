@@ -42,11 +42,3 @@ Welcome to Predictly documentation!
 ## RESOURCES
 
 - [External Links](Resources/Links.md)
-
----
-
-**Official Links:**
-
-- Live App: [predictly-movement.vercel.app](https://predictly-movement.vercel.app)
-- Backend: [backend-3ufs.onrender.com](https://backend-3ufs.onrender.com)
-- GitHub: [github.com/Predictly-Labs](https://github.com/Predictly-Labs)

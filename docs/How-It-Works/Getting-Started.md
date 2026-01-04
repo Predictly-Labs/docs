@@ -5,24 +5,10 @@ Welcome to Predictly! This guide will help you get started in 5 minutes.
 ## What You'll Need
 
 - A web browser (Chrome, Firefox, Safari, or Edge)
-- Email address OR crypto wallet
+- A Web3 wallet (Nightly, Petra, or Martian)
 - A few MOVE tokens (get free testnet tokens)
 
 ## Step 1: Connect Your Wallet
-
-### Option A: Email Login (Easiest)
-
-1. Go to [Predictly](https://predictly-labs.vercel.app)
-2. Click **"Connect Wallet"**
-3. Select **"Continue with Email"**
-4. Enter your email address
-5. Check your email for verification code
-6. Enter the code
-7. ✅ You're in!
-
-**What happens:** Privy creates an embedded wallet for you automatically. No crypto knowledge needed!
-
-### Option B: Web3 Wallet
 
 1. Install a wallet ([Nightly](https://wallet.nightly.app/), [Petra](https://petra.app/), or [Martian](https://martianwallet.xyz/))
 2. Go to [Predictly](https://predictly-labs.vercel.app)
@@ -226,7 +212,7 @@ Profit: 0.67 MOVE (+67%)
 
 **You learned how to:**
 
-1. ✅ Connect wallet (email or Web3)
+1. ✅ Connect Web3 wallet
 2. ✅ Get test MOVE tokens
 3. ✅ Join or create groups
 4. ✅ Browse markets
