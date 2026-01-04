@@ -1,6 +1,6 @@
-# Table of contents
+# Table of Contents
 
-- [Welcome](README.md)
+- [Table of Contents](README.md)
 
 ## INTRODUCTION
 
