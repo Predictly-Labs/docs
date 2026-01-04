@@ -1,7 +1,5 @@
 # Table of Contents
 
-* [Welcome](/broken/pages/OvD9Ugozh7y6MjxxAa4u)
-
 ## INTRODUCTION
 
 * [Introduction](docs/Introduction/)
