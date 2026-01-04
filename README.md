@@ -8,11 +8,11 @@ Create, participate in, and earn from prediction markets with friends and commun
 
 ## Quick Links
 
-| For Users                                       | For Developers                                   |
-| ----------------------------------------------- | ------------------------------------------------ |
-| [Quick Start](Getting-Started/Quick-Start.md)   | [Smart Contracts](Developers/Smart-Contracts.md) |
-| [Wallet Setup](Getting-Started/Wallet-Setup.md) | [Backend API](Developers/Backend-API.md)         |
-| [How It Works](Introduction/How-It-Works.md)    | [Deployments](Deployments/Contract-Addresses.md) |
+| For Users                                            | For Developers                                        |
+| ---------------------------------------------------- | ----------------------------------------------------- |
+| [Quick Start](docs/Getting-Started/Quick-Start.md)   | [Smart Contracts](/broken/pages/eEEEwGoqD15GBxQJdqDp) |
+| [Wallet Setup](docs/Getting-Started/Wallet-Setup.md) | [Backend API](/broken/pages/kM1zwdGXyeji3kKo4oRO)     |
+| [How It Works](docs/Introduction/How-It-Works.md)    | [Deployments](docs/Deployments/Contract-Addresses.md) |
 
 ## Core Features
 
@@ -32,6 +32,6 @@ Create, participate in, and earn from prediction markets with friends and commun
 | Contract | `0x9161980be9b78e96ddae98ceb289f6f4cda5e4af70667667ff9af8438a94e565` |
 | Currency | MOVE                                                                 |
 
----
+***
 
 Last updated: January 2026

@@ -10,11 +10,11 @@ Movement Network provides fast, low-cost transactions ideal for prediction marke
 
 ## Core Features
 
-- **Prediction Markets** - Create YES/NO markets on any topic
-- **Group Communities** - Private prediction groups with invite codes
-- **Wallet Integration** - Support for Nightly, Petra, and Martian wallets
-- **Judge System** - Fair market resolution through trusted judges
-- **Free Market Creation** - No gas fees to create markets
+* **Prediction Markets** - Create YES/NO markets on any topic
+* **Group Communities** - Private prediction groups with invite codes
+* **Wallet Integration** - Support for Nightly, Petra, and Martian wallets
+* **Judge System** - Fair market resolution through trusted judges
+* **Free Market Creation** - No gas fees to create markets
 
 ## Platform Architecture
 
@@ -36,12 +36,12 @@ Movement Network provides fast, low-cost transactions ideal for prediction marke
 
 **For Users:**
 
-- [Quick Start Guide](../Getting-Started/Quick-Start.md) - Get started in 5 minutes
-- [Wallet Setup](../Getting-Started/Wallet-Setup.md) - Set up your wallet
-- [How to Vote](../Products/Prediction-Markets.md) - Learn about markets
+* [Quick Start Guide](/broken/pages/kdmn4R8P7VLG3TX9uzzj) - Get started in 5 minutes
+* [Wallet Setup](/broken/pages/ZXrAoSLxQvjThBwVGXni) - Set up your wallet
+* [How to Vote](/broken/pages/4r3zDHRbVgzTznwx6aSY) - Learn about markets
 
 **For Developers:**
 
-- [Smart Contracts](../Developers/Smart-Contracts.md) - Contract documentation
-- [Backend API](../Developers/Backend-API.md) - API reference
-- [Contract Addresses](../Deployments/Contract-Addresses.md) - Deployment info
+* [Smart Contracts](/broken/pages/eEEEwGoqD15GBxQJdqDp) - Contract documentation
+* [Backend API](/broken/pages/kM1zwdGXyeji3kKo4oRO) - API reference
+* [Contract Addresses](../Deployments/Contract-Addresses.md) - Deployment info
