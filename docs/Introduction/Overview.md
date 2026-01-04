@@ -4,7 +4,7 @@
 
 Predictly is a decentralized prediction market platform built on Movement Network. Users can create and participate in prediction markets with friends and communities, staking MOVE tokens on YES/NO outcomes.
 
-![Predictly Landing Page](../assets/screenshots/landing-page.png)
+**Live Demo:** [predictly-movement.vercel.app](https://predictly-movement.vercel.app)
 
 _Where Prediction Market Meets Group Friends - Built with $MOVE_
 
