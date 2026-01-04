@@ -7,9 +7,9 @@
 
 # But ignore these files in docs
 docs/REMAINING_TASKS.md
-docs/.gitignore
-docs/SUMMARY.md
+
+# Allow GitBook config
+!.gitbook.yaml
 
 # And gitignore itself
 !.gitignore
-SUMMARY.md
