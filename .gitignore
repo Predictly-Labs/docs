@@ -8,6 +8,8 @@
 # But ignore these files in docs
 docs/REMAINING_TASKS.md
 docs/.gitignore
+docs/SUMMARY.md
 
 # And gitignore itself
 !.gitignore
+SUMMARY.md
