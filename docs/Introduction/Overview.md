@@ -31,3 +31,17 @@ Movement Network provides fast, low-cost transactions ideal for prediction marke
 | Chain    | Movement Testnet (Bardock)                                           |
 | Contract | `0x9161980be9b78e96ddae98ceb289f6f4cda5e4af70667667ff9af8438a94e565` |
 | Currency | MOVE                                                                 |
+
+## Choose Your Path
+
+**For Users:**
+
+- [Quick Start Guide](../Getting-Started/Quick-Start.md) - Get started in 5 minutes
+- [Wallet Setup](../Getting-Started/Wallet-Setup.md) - Set up your wallet
+- [How to Vote](../Products/Prediction-Markets.md) - Learn about markets
+
+**For Developers:**
+
+- [Smart Contracts](../Developers/Smart-Contracts.md) - Contract documentation
+- [Backend API](../Developers/Backend-API.md) - API reference
+- [Contract Addresses](../Deployments/Contract-Addresses.md) - Deployment info

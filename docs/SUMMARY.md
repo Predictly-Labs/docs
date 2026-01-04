@@ -1,27 +1,27 @@
 # Table of Contents
 
-## Introduction
+## INTRODUCTION
 
 - [Overview](Introduction/Overview.md)
 - [Problem and Solution](Introduction/Problem-and-Solution.md)
 - [Key Features](Introduction/Key-Features.md)
 - [How It Works](Introduction/How-It-Works.md)
 
-## Getting Started
+## GETTING STARTED
 
 - [Quick Start](Getting-Started/Quick-Start.md)
 - [Wallet Setup](Getting-Started/Wallet-Setup.md)
 
-## Products
+## PRODUCTS
 
 - [Prediction Markets](Products/Prediction-Markets.md)
 - [Groups](Products/Groups.md)
 
-## Developers
+## DEVELOPERS
 
 - [Smart Contracts](Developers/Smart-Contracts.md)
 - [Backend API](Developers/Backend-API.md)
 
-## Deployments
+## DEPLOYMENTS
 
 - [Contract Addresses](Deployments/Contract-Addresses.md)
