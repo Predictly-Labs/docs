@@ -21,7 +21,6 @@
 | **Faucet**              | [faucet.movementnetwork.xyz](https://faucet.movementnetwork.xyz/)                                        |
 | **Movement by Example** | [movement-by-example.vercel.app](https://movement-by-example.vercel.app/getting-started/first-contract)  |
 | **Aptos Book**          | [aptos-book.com](https://aptos-book.com/getting_started/hello_aptos_cli.html)                            |
-| **Pyth Network**        | [pyth.network](https://www.pyth.network/)                                                                |
 
 ---
 
