@@ -25,18 +25,6 @@
 
 ---
 
-## Hackathon Information
-
-| Resource        | URL                                                                                                                          |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Encode Club** | [encodeclub.notion.site](https://encodeclub.notion.site/14a6c123e77d81c695b4d54406753eae?v=14a6c123e77d810a9116000c21554101) |
-| **Mammothon**   | [Prediction Market Project](https://encodeclub.notion.site/mammothon-prediction-market-for-friend-groups-movement)           |
-
-**Tracks:**
-
-- Best Consumer App built on Movement
-- The People's Choice
-
 ---
 
 ## Technology Stack
