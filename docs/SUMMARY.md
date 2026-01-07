@@ -14,6 +14,12 @@
 - [Social-First Approach](Mission/Social-First.md)
 - [Roadmap](Mission/Roadmap.md)
 
+## BUSINESS
+
+- [Business Plan](Business/Business-Plan.md)
+- [Revenue Model](Business/Revenue-Model.md)
+- [Market Analysis](Business/Market-Analysis.md)
+
 ## PRODUCTS
 
 - [Prediction Markets](Products/Prediction-Markets/README.md)
