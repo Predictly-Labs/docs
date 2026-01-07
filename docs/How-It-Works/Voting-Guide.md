@@ -4,6 +4,8 @@ Complete guide to placing votes and maximizing your prediction success.
 
 ## Overview
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Placing vote and prediction with $MOVE token</p></figcaption></figure>
+
 Voting is how you participate in prediction markets. Stake MOVE tokens on YES or NO, and win rewards if you're correct!
 
 ## Quick Start
@@ -15,7 +17,7 @@ Voting is how you participate in prediction markets. Stake MOVE tokens on YES or
 5. Confirm transaction
 6. ✅ Vote placed!
 
----
+***
 
 ## Understanding Markets
 
@@ -25,37 +27,37 @@ Before voting, check:
 
 **Title & Description**
 
-- What's the prediction?
-- How will it be resolved?
-- Is criteria clear?
+* What's the prediction?
+* How will it be resolved?
+* Is criteria clear?
 
 **Deadline**
 
-- When does voting close?
-- Enough time left?
+* When does voting close?
+* Enough time left?
 
 **Pool Size**
 
-- Total MOVE staked
-- Larger pool = more liquidity
+* Total MOVE staked
+* Larger pool = more liquidity
 
 **Odds**
 
-- YES percentage
-- NO percentage
-- Current sentiment
+* YES percentage
+* NO percentage
+* Current sentiment
 
 **Participants**
 
-- How many voters?
-- Who's voting?
+* How many voters?
+* Who's voting?
 
 **Judge**
 
-- Who will resolve?
-- Are they trustworthy?
+* Who will resolve?
+* Are they trustworthy?
 
----
+***
 
 ## How to Vote
 
@@ -63,9 +65,9 @@ Before voting, check:
 
 **Browse markets:**
 
-- Public markets: "Explore" tab
-- Group markets: "My Groups"
-- Filter by category, time, status
+* Public markets: "Explore" tab
+* Group markets: "My Groups"
+* Filter by category, time, status
 
 **Click on market** to see details
 
@@ -75,10 +77,10 @@ Before voting, check:
 
 Consider:
 
-- Your conviction level
-- Available evidence
-- Time until deadline
-- Judge reliability
+* Your conviction level
+* Available evidence
+* Time until deadline
+* Judge reliability
 
 **Example:**
 
@@ -100,15 +102,15 @@ NO if you think:
 
 **How much to stake?**
 
-**Minimum:** Usually 0.1 MOVE  
+**Minimum:** Usually 0.1 MOVE\
 **Maximum:** Set by market creator (or unlimited)
 
 **Considerations:**
 
-- Your conviction level
-- Risk tolerance
-- Available balance
-- Potential reward
+* Your conviction level
+* Risk tolerance
+* Available balance
+* Potential reward
 
 **Example stakes:**
 
@@ -123,10 +125,10 @@ Very high conviction: 10+ MOVE
 
 **Calculator shows:**
 
-- Your stake
-- Current odds
-- Potential reward
-- Profit if you win
+* Your stake
+* Current odds
+* Potential reward
+* Profit if you win
 
 **Example:**
 
@@ -148,9 +150,9 @@ Profit: 0.6 MOVE (+60%)
 4. Wait for confirmation (5-10 seconds)
 5. ✅ Vote confirmed!
 
-**Gas fee:** ~$0.01 (very cheap on Movement)
+**Gas fee:** \~$0.01 (very cheap on Movement)
 
----
+***
 
 ## Reward Calculation
 
@@ -223,7 +225,7 @@ Profit: 20 MOVE (+400%!)
 
 **Lesson:** Betting on underdogs = higher potential rewards!
 
----
+***
 
 ## Voting Strategies
 
@@ -233,10 +235,10 @@ Profit: 20 MOVE (+400%!)
 
 **Approach:**
 
-- Research thoroughly
-- Trust your analysis
-- Stake according to confidence
-- Don't follow the crowd
+* Research thoroughly
+* Trust your analysis
+* Stake according to confidence
+* Don't follow the crowd
 
 **Example:**
 
@@ -253,10 +255,10 @@ You check forecast: 90% chance of rain
 
 **Approach:**
 
-- Look for overvalued sides
-- Bet against the crowd
-- Higher risk, higher reward
-- Need strong conviction
+* Look for overvalued sides
+* Bet against the crowd
+* Higher risk, higher reward
+* Need strong conviction
 
 **Example:**
 
@@ -275,10 +277,10 @@ If you think crash unlikely:
 
 **Approach:**
 
-- Spread stakes across multiple markets
-- Different topics, timeframes
-- Reduces overall risk
-- Steady returns
+* Spread stakes across multiple markets
+* Different topics, timeframes
+* Reduces overall risk
+* Steady returns
 
 **Example:**
 
@@ -299,10 +301,10 @@ Split across:
 
 **Approach:**
 
-- Vote early when market opens
-- Odds more favorable
-- Influence market sentiment
-- Risk: Less information
+* Vote early when market opens
+* Odds more favorable
+* Influence market sentiment
+* Risk: Less information
 
 **Example:**
 
@@ -324,10 +326,10 @@ Later voters see your confidence!
 
 **Approach:**
 
-- Watch market develop
-- See what others think
-- Vote closer to deadline
-- Risk: Worse odds
+* Watch market develop
+* See what others think
+* Vote closer to deadline
+* Risk: Worse odds
 
 **Example:**
 
@@ -339,7 +341,7 @@ Day 7: Product reviews out, 70% YES
 Day 14: You vote YES with conviction
 ```
 
----
+***
 
 ## Advanced Tips
 
@@ -347,41 +349,41 @@ Day 14: You vote YES with conviction
 
 **High YES percentage (70%+):**
 
-- Crowd thinks YES likely
-- Lower potential reward for YES
-- Higher risk/reward for NO
+* Crowd thinks YES likely
+* Lower potential reward for YES
+* Higher risk/reward for NO
 
 **Balanced (45-55%):**
 
-- Market uncertain
-- Fair odds both sides
-- Good for confident predictions
+* Market uncertain
+* Fair odds both sides
+* Good for confident predictions
 
 **High NO percentage (70%+):**
 
-- Crowd thinks NO likely
-- Lower potential reward for NO
-- Higher risk/reward for YES
+* Crowd thinks NO likely
+* Lower potential reward for NO
+* Higher risk/reward for YES
 
 ### Timing Your Vote
 
 **Early (first 25% of time):**
 
-- ✅ Better odds
-- ✅ Influence sentiment
-- ❌ Less information
+* ✅ Better odds
+* ✅ Influence sentiment
+* ❌ Less information
 
 **Middle (25-75%):**
 
-- ✅ Balanced info/odds
-- ✅ See market trend
-- ❌ Average odds
+* ✅ Balanced info/odds
+* ✅ See market trend
+* ❌ Average odds
 
 **Late (last 25%):**
 
-- ✅ Maximum information
-- ✅ Clear trend
-- ❌ Worse odds
+* ✅ Maximum information
+* ✅ Clear trend
+* ❌ Worse odds
 
 ### Stake Sizing
 
@@ -402,13 +404,13 @@ Optimal stake = (0.7 × 1.67 - 1) / (1.67 - 1)
 
 **Simpler approach:**
 
-- Low conviction: 1-5% of bankroll
-- Medium: 5-10%
-- High: 10-20%
-- Very high: 20-30%
-- Never: >50%
+* Low conviction: 1-5% of bankroll
+* Medium: 5-10%
+* High: 10-20%
+* Very high: 20-30%
+* Never: >50%
 
----
+***
 
 ## Common Mistakes
 
@@ -484,7 +486,7 @@ Criteria: By end of 2025 only
 
 **Solution:** Always read description carefully
 
----
+***
 
 ## Tracking Your Votes
 
@@ -497,45 +499,45 @@ Criteria: By end of 2025 only
 
 **For each vote:**
 
-- Market title
-- Your prediction (YES/NO)
-- Stake amount
-- Current status
-- Potential reward
+* Market title
+* Your prediction (YES/NO)
+* Stake amount
+* Current status
+* Potential reward
 
 ### Vote Status
 
 **🟢 ACTIVE**
 
-- Voting still open
-- Can't change your vote
-- Watch market develop
+* Voting still open
+* Can't change your vote
+* Watch market develop
 
 **🟡 PENDING**
 
-- Deadline passed
-- Waiting for judge
-- Waiting for judge resolution
+* Deadline passed
+* Waiting for judge
+* Waiting for judge resolution
 
 **✅ WON**
 
-- You predicted correctly!
-- Claim your reward
-- See profit amount
+* You predicted correctly!
+* Claim your reward
+* See profit amount
 
 **❌ LOST**
 
-- You predicted incorrectly
-- Stake goes to winners
-- Learn for next time
+* You predicted incorrectly
+* Stake goes to winners
+* Learn for next time
 
 **⚪ INVALID**
 
-- Market cancelled
-- Everyone refunded
-- No winners/losers
+* Market cancelled
+* Everyone refunded
+* No winners/losers
 
----
+***
 
 ## Next Steps
 
@@ -543,7 +545,7 @@ Criteria: By end of 2025 only
 
 **After voting:**
 
-- [Claim Rewards](Claiming-Rewards.md) - If you win
-- [Create Markets](Creating-Markets.md) - Make your own
+* [Claim Rewards](Claiming-Rewards.md) - If you win
+* [Create Markets](Creating-Markets.md) - Make your own
 
 **Need help?** [Troubleshooting](../Resources/Troubleshooting.md)

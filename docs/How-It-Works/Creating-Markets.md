@@ -27,7 +27,7 @@ Anyone can create prediction markets for **FREE** (no gas fees). The backend pay
 
 ## Step-by-Step Guide
 
-<figure><img src="../.gitbook/assets/11.png" alt=""><figcaption><p>Step-by-step guide how Predictly works</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="260"><figcaption><p>Popup option create prediction market</p></figcaption></figure>
 
 ### 1. Click "Create Market"
 
