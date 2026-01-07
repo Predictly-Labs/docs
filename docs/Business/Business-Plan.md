@@ -71,12 +71,13 @@ Predictly is a social-first prediction market that lets friends and communities 
 - Winners take proportional share of losing pool
 - High risk, high reward
 
-**Zero-Loss Prediction (Coming Q1 2025)**
+**Zero-Loss Prediction (Live) ✅**
 
 - Stake MOVE tokens with principal protection
-- Only DeFi yield is at risk
+- Only DeFi yield is at risk (5% APY simulated)
 - Winners earn from generated yield
 - Perfect for risk-averse users
+- Fully implemented in smart contracts
 
 #### 3. Enhanced UX ⚡
 
@@ -273,7 +274,7 @@ Predictly generates revenue through two primary streams:
 
 **Key Deliverables:**
 
-- [ ] Zero-Loss prediction markets (DeFi yield)
+- ✅ Zero-Loss prediction markets (DeFi yield)
 - [ ] Pro subscription tier launch
 - ✅ Advanced analytics dashboard
 - ✅ Mobile app (PWA)

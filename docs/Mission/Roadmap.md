@@ -36,8 +36,7 @@
 **Core Features**
 
 - ✅ Full Degen prediction markets (live)
-- 🔄 No-Loss prediction markets (planned Q2 2025)
-- 🔄 Yield-earning markets (planned Q2 2025)
+- ✅ Zero-Loss prediction markets (live with 5% APY yield)
 - 🔄 NFT-based roles (planned)
 - 🔄 Badge system (planned)
 
@@ -92,7 +91,7 @@
 - [ ] Multi-outcome markets (not just YES/NO)
 - [ ] Time-series predictions
 - [ ] Conditional markets
-- [ ] Zero-Loss markets with DeFi yield
+- ✅ Zero-Loss markets with DeFi yield (5% APY simulated)
 
 **Social Features**
 

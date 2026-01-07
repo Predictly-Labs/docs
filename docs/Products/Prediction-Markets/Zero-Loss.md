@@ -4,7 +4,8 @@
 
 Zero Loss Markets use **DeFi yield farming** to protect your principal. You never lose your stake - only the yield is distributed as rewards.
 
-> **Status:** Planned Feature (Roadmap Q1 2025)
+> **Status:** Live on Movement Testnet ✅  
+> Zero-Loss markets are fully implemented with 5% APY yield simulation
 
 ## How It Works
 
@@ -159,31 +160,29 @@ Yield Pool (distributed to winners)
 | Claim Reward       | Gas fee (~$0.01) |
 | Yield Protocol Fee | ~0.5% of yield   |
 
-## Roadmap
+## Implementation Status
 
-### Phase 1 (Q1 2025)
+### Smart Contract ✅
 
-- [ ] Integrate with Movement staking
-- [ ] Test on testnet
-- [ ] Security audit
+- ✅ Integrated with Movement Network
+- ✅ Yield calculation implemented (5% APY simulation)
+- ✅ Principal protection logic complete
+- ✅ Reward distribution for winners (principal + yield)
+- ✅ Deployed on Movement Testnet
 
-### Phase 2 (Q2 2025)
+### Future Enhancements
 
-- [ ] Launch on mainnet
-- [ ] Add multiple yield sources
+- [ ] Integration with real DeFi lending protocols (LayerBank, etc.)
+- [ ] Multiple yield sources
 - [ ] Insurance coverage
-
-### Phase 3 (Q3 2025)
-
-- [ ] Advanced strategies
 - [ ] Auto-compounding
-- [ ] Yield optimization
+- [ ] Yield optimization strategies
 
 ---
 
-**Status:** Planned Roadmap Feature  
-**Expected Launch:** Q1 2025  
-**Current Focus:** Full Degen and Private Markets are live on testnet
+**Status:** Live on Movement Testnet ✅  
+**Implementation:** Fully functional with simulated 5% APY yield  
+**Next Steps:** Integration with real DeFi protocols for actual yield generation
 
 ---
 

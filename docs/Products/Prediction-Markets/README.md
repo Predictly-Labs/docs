@@ -4,11 +4,11 @@ Predictly offers three types of prediction markets, each designed for different 
 
 ## Market Types Overview
 
-| Type                            | Risk   | Reward           | Best For                    | Status             |
-| ------------------------------- | ------ | ---------------- | --------------------------- | ------------------ |
-| **[Full Degen](Full-Degen.md)** | High   | High (2x-10x)    | High conviction predictions | ✅ Live            |
-| **[Zero Loss](Zero-Loss.md)**   | None   | Low (yield only) | Risk-averse users           | 🔄 Planned Q1 2025 |
-| **[Private](Private.md)**       | Varies | Varies           | Friend groups only          | ✅ Live            |
+| Type                            | Risk   | Reward           | Best For                    | Status  |
+| ------------------------------- | ------ | ---------------- | --------------------------- | ------- |
+| **[Full Degen](Full-Degen.md)** | High   | High (2x-10x)    | High conviction predictions | ✅ Live |
+| **[Zero Loss](Zero-Loss.md)**   | None   | Low (yield only) | Risk-averse users           | ✅ Live |
+| **[Private](Private.md)**       | Varies | Varies           | Friend groups only          | ✅ Live |
 
 ---
 
