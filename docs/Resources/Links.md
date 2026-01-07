@@ -1,15 +1,17 @@
-# External Links & Resources
+# External Links
 
 ## Official Predictly Links
 
-| Resource          | URL                                                                                |
-| ----------------- | ---------------------------------------------------------------------------------- |
-| **Live App**      | [predictly-movement.vercel.app](https://predictly-movement.vercel.app)             |
-| **Backend API**   | [backend-3ufs.onrender.com](https://backend-3ufs.onrender.com)                     |
-| **GitHub**        | [github.com/Predictly-Labs](https://github.com/Predictly-Labs)                     |
-| **Documentation** | [predictly-labs.gitbook.io](https://predictly-labs.gitbook.io/predictly-labs-docs) |
+| Resource          | URL                                                                                                                                                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Live App**      | [predictly-movement.vercel.app](https://predictly-movement.vercel.app)                                                                                                                                             |
+| **Backend API**   | [backend-3ufs.onrender.com](https://backend-3ufs.onrender.com)                                                                                                                                                     |
+| **GitHub**        | [github.com/Predictly-Labs](https://github.com/Predictly-Labs)                                                                                                                                                     |
+| **Documentation** | [predictly-labs.gitbook.io](https://predictly-labs.gitbook.io/predictly-labs-docs)                                                                                                                                 |
+| Demo Video        | [youtu.be/afQTpguUa4E](https://youtu.be/afQTpguUa4E)                                                                                                                                                               |
+| Pitch Deck        | [canva.com/design/DAG9PkBVBI](https://www.canva.com/design/DAG9PkBVBIQ/uicHzbnsLS-0egNChUEuLA/view?utm_content=DAG9PkBVBIQ\&utm_campaign=designshare\&utm_medium=link2\&utm_source=uniquelinks\&utlId=he028fc6ef8) |
 
----
+***
 
 ## Movement Network
 
@@ -22,9 +24,9 @@
 | **Movement by Example** | [movement-by-example.vercel.app](https://movement-by-example.vercel.app/getting-started/first-contract)  |
 | **Aptos Book**          | [aptos-book.com](https://aptos-book.com/getting_started/hello_aptos_cli.html)                            |
 
----
+***
 
----
+***
 
 ## Technology Stack
 
@@ -62,7 +64,7 @@
 | ----------------- | ----------------------------------------- |
 | **Pinata (IPFS)** | [pinata.cloud](https://www.pinata.cloud/) |
 
----
+***
 
 ## Supported Wallets
 
@@ -72,7 +74,7 @@
 | **Petra Wallet**   | [petra.app](https://petra.app/)                   |
 | **Martian Wallet** | [martianwallet.xyz](https://martianwallet.xyz/)   |
 
----
+***
 
 ## Developer Tools
 
@@ -92,15 +94,15 @@
 | **Move Prover**       | [GitHub](https://github.com/move-language/move/tree/main/language/move-prover)        |
 | **VS Code Extension** | [Marketplace](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer) |
 
----
+***
 
 ## Community & Support
 
 For support and questions:
 
-- GitHub Issues: [github.com/Predictly-Labs](https://github.com/Predictly-Labs)
-- Documentation: [GitBook Docs](https://predictly-labs.gitbook.io/predictly-labs-docs)
+* GitHub Issues: [github.com/Predictly-Labs](https://github.com/Predictly-Labs)
+* Documentation: [GitBook Docs](https://predictly-labs.gitbook.io/predictly-labs-docs)
 
----
+***
 
 **Last Updated:** January 2026
