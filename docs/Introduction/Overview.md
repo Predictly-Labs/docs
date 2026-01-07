@@ -1,6 +1,6 @@
 # Overview
 
-<div align="center"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Predictly landing page showing our mission and tagline</p></figcaption></figure></div>
 
 > <p align="center"><em>Where Prediction Market Meets Group Friends - Built with $MOVE</em></p>
 

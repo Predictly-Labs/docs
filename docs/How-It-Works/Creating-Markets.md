@@ -10,10 +10,10 @@ Anyone can create prediction markets for **FREE** (no gas fees). The backend pay
 
 ### Requirements
 
-- ✅ Connected wallet
-- ✅ Member of a group (for private markets)
-- ✅ Clear prediction question
-- ✅ Verifiable outcome criteria
+* ✅ Connected wallet
+* ✅ Member of a group (for private markets)
+* ✅ Clear prediction question
+* ✅ Verifiable outcome criteria
 
 ### Market Types
 
@@ -23,14 +23,16 @@ Anyone can create prediction markets for **FREE** (no gas fees). The backend pay
 | **Zero Loss**  | Public/Private | None   | Risk-averse users (coming soon) |
 | **Private**    | Group only     | Varies | Friend group predictions        |
 
----
+***
 
 ## Step-by-Step Guide
 
+<figure><img src="../.gitbook/assets/11.png" alt=""><figcaption><p>Step-by-step guide how Predictly works</p></figcaption></figure>
+
 ### 1. Click "Create Market"
 
-- From dashboard: Click **"+ Create Market"**
-- From group page: Click **"New Market"**
+* From dashboard: Click **"+ Create Market"**
+* From group page: Click **"New Market"**
 
 ### 2. Fill in Basic Information
 
@@ -56,10 +58,10 @@ The main prediction question.
 
 **Tips:**
 
-- Keep it clear and concise
-- Make it a YES/NO question
-- Include timeframe
-- Be specific
+* Keep it clear and concise
+* Make it a YES/NO question
+* Include timeframe
+* Be specific
 
 #### Description
 
@@ -77,10 +79,10 @@ Judge will check official exchange records.
 
 **Include:**
 
-- Exact criteria for YES
-- Exact criteria for NO
-- Data sources
-- How judge will verify
+* Exact criteria for YES
+* Exact criteria for NO
+* Data sources
+* How judge will verify
 
 ### 3. Set Deadline
 
@@ -88,36 +90,36 @@ When voting closes.
 
 **Examples:**
 
-- Short-term: Tomorrow, next week
-- Medium-term: Next month, end of quarter
-- Long-term: End of year, next year
+* Short-term: Tomorrow, next week
+* Medium-term: Next month, end of quarter
+* Long-term: End of year, next year
 
 **Tips:**
 
-- Give enough time for participation
-- Not too far (people lose interest)
-- Consider verification time needed
-- Account for timezone (use UTC)
+* Give enough time for participation
+* Not too far (people lose interest)
+* Consider verification time needed
+* Account for timezone (use UTC)
 
 ### 4. Choose Market Type
 
 #### Full Degen (Standard)
 
-- Winners take full losing pool
-- High risk, high reward
-- Most popular
+* Winners take full losing pool
+* High risk, high reward
+* Most popular
 
 #### Zero Loss (Planned Q1 2025)
 
-- Stakes earn yield
-- Only yield distributed
-- Principal protected
+* Stakes earn yield
+* Only yield distributed
+* Principal protected
 
 #### Private Market
 
-- Only group members can see/vote
-- Great for personal predictions
-- Requires group membership
+* Only group members can see/vote
+* Great for personal predictions
+* Requires group membership
 
 ### 5. Set Parameters (Optional)
 
@@ -125,17 +127,17 @@ When voting closes.
 
 Minimum amount users can bet.
 
-- **Default:** 0.1 MOVE
-- **Range:** 0.01 - 10 MOVE
-- **Tip:** Lower = more accessible
+* **Default:** 0.1 MOVE
+* **Range:** 0.01 - 10 MOVE
+* **Tip:** Lower = more accessible
 
 #### Maximum Stake
 
 Maximum amount users can bet.
 
-- **Default:** No limit
-- **Use case:** Prevent whales dominating
-- **Example:** 10 MOVE max for fair play
+* **Default:** No limit
+* **Use case:** Prevent whales dominating
+* **Example:** 10 MOVE max for fair play
 
 ### 6. Upload Image (Optional)
 
@@ -143,16 +145,16 @@ Add visual appeal to your market.
 
 **Supported formats:**
 
-- JPG, PNG, GIF
-- Max size: 5MB
-- Recommended: 1200x630px
+* JPG, PNG, GIF
+* Max size: 5MB
+* Recommended: 1200x630px
 
 **Tips:**
 
-- Use relevant images
-- Clear and professional
-- No copyrighted content
-- Compress for faster loading
+* Use relevant images
+* Clear and professional
+* No copyrighted content
+* Compress for faster loading
 
 **Image is stored on IPFS** (decentralized storage)
 
@@ -160,19 +162,19 @@ Add visual appeal to your market.
 
 Choose which group can access this market.
 
-- Only group members can see
-- Only group members can vote
-- Group judge will resolve
+* Only group members can see
+* Only group members can vote
+* Group judge will resolve
 
 ### 8. Review & Create
 
 **Check everything:**
 
-- ✅ Title is clear
-- ✅ Description is detailed
-- ✅ Deadline is correct
-- ✅ Parameters are set
-- ✅ Image uploaded (optional)
+* ✅ Title is clear
+* ✅ Description is detailed
+* ✅ Deadline is correct
+* ✅ Parameters are set
+* ✅ Image uploaded (optional)
 
 **Click "Create Market"**
 
@@ -188,11 +190,11 @@ Choose which group can access this market.
 
 **You'll see:**
 
-- Market ID
-- Share link
-- Invite code (for private)
+* Market ID
+* Share link
+* Invite code (for private)
 
----
+***
 
 ## Best Practices
 
@@ -223,17 +225,17 @@ Criteria:
 
 **Easy to verify:**
 
-- ✅ Sports results (official records)
-- ✅ Weather data (weather.com)
-- ✅ Stock prices (Yahoo Finance)
-- ✅ Personal goals (photo proof)
+* ✅ Sports results (official records)
+* ✅ Weather data (weather.com)
+* ✅ Stock prices (Yahoo Finance)
+* ✅ Personal goals (photo proof)
 
 **Hard to verify:**
 
-- ❌ Subjective opinions
-- ❌ Private information
-- ❌ Unprovable claims
-- ❌ Ambiguous criteria
+* ❌ Subjective opinions
+* ❌ Private information
+* ❌ Unprovable claims
+* ❌ Ambiguous criteria
 
 ### Fair Deadlines
 
@@ -259,17 +261,17 @@ Reason: Not enough time to participate
 
 **For friend groups:**
 
-- Min: 0.1 MOVE
-- Max: 5 MOVE
-- Keeps it fun, not stressful
+* Min: 0.1 MOVE
+* Max: 5 MOVE
+* Keeps it fun, not stressful
 
 **For public markets:**
 
-- Min: 0.5 MOVE
-- Max: No limit
-- Let market decide
+* Min: 0.5 MOVE
+* Max: No limit
+* Let market decide
 
----
+***
 
 ## Market Examples
 
@@ -339,7 +341,7 @@ Min Stake: 1 MOVE
 Group: Public
 ```
 
----
+***
 
 ## After Creation
 
@@ -350,31 +352,31 @@ Group: Public
 1. Click "Share" button
 2. Copy link
 3. Share on:
-   - Twitter/X
-   - Discord
-   - Telegram
-   - WhatsApp
+   * Twitter/X
+   * Discord
+   * Telegram
+   * WhatsApp
 
 **Invite code (private markets):**
 
-- Share with group members only
-- Code is unique per market
-- Anyone with code can join group
+* Share with group members only
+* Code is unique per market
+* Anyone with code can join group
 
 ### Monitor Activity
 
 **Track:**
 
-- Number of votes
-- Total pool size
-- YES/NO percentages
-- Participant list
+* Number of votes
+* Total pool size
+* YES/NO percentages
+* Participant list
 
 **Update:**
 
-- Can't edit after creation
-- If mistake: Cancel and recreate
-- Add clarifications in comments
+* Can't edit after creation
+* If mistake: Cancel and recreate
+* Add clarifications in comments
 
 ### Assign Judge (Group Admins)
 
@@ -384,7 +386,7 @@ If you're group admin:
 2. Assign trusted members as judges
 3. Judges can resolve all group markets
 
----
+***
 
 ## Troubleshooting
 
@@ -421,45 +423,45 @@ If you're group admin:
 3. Try smaller image
 4. Skip image (optional anyway)
 
----
+***
 
 ## Tips for Success
 
 ### Engage Participants
 
-- Share on social media
-- Explain your reasoning
-- Respond to questions
-- Build hype!
+* Share on social media
+* Explain your reasoning
+* Respond to questions
+* Build hype!
 
 ### Set Realistic Deadlines
 
-- Not too short (need participation)
-- Not too long (people forget)
-- Consider verification time
+* Not too short (need participation)
+* Not too long (people forget)
+* Consider verification time
 
 ### Choose Good Judges
 
-- Trustworthy
-- Knowledgeable about topic
-- Available after deadline
-- Objective
+* Trustworthy
+* Knowledgeable about topic
+* Available after deadline
+* Objective
 
 ### Start Small
 
-- Create simple markets first
-- Learn what works
-- Build reputation
-- Scale up gradually
+* Create simple markets first
+* Learn what works
+* Build reputation
+* Scale up gradually
 
----
+***
 
 ## Next Steps
 
 **Market created?** Learn how to:
 
-- [Vote on Markets](Voting-Guide.md)
-- [Claim Rewards](Claiming-Rewards.md)
-- [Manage Groups](../Products/Groups.md)
+* [Vote on Markets](Voting-Guide.md)
+* [Claim Rewards](Claiming-Rewards.md)
+* [Manage Groups](../Products/Groups.md)
 
 **Need help?** Check [Troubleshooting](../Resources/Troubleshooting.md)
