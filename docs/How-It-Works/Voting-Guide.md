@@ -4,7 +4,7 @@ Complete guide to placing votes and maximizing your prediction success.
 
 ## Overview
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Placing vote and prediction with $MOVE token</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Placing vote and prediction with $MOVE token</p></figcaption></figure>
 
 Voting is how you participate in prediction markets. Stake MOVE tokens on YES or NO, and win rewards if you're correct!
 

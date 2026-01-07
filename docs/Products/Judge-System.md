@@ -2,6 +2,8 @@
 
 ## Overview
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Judge tab management</p></figcaption></figure>
+
 The Judge System is Predictly's **decentralized oracle solution** using trusted friends instead of complex automated oracles.
 
 ## Concept: Trusted Middleman
@@ -12,17 +14,17 @@ Instead of relying on expensive oracles or centralized platforms, Predictly uses
 
 **Traditional Oracles:**
 
-- Expensive (high fees)
-- Limited data sources
-- Complex integration
-- Not suitable for personal predictions
+* Expensive (high fees)
+* Limited data sources
+* Complex integration
+* Not suitable for personal predictions
 
 **Judge System:**
 
-- FREE (your friends)
-- Can verify anything
-- Simple and flexible
-- Perfect for social predictions
+* FREE (your friends)
+* Can verify anything
+* Simple and flexible
+* Perfect for social predictions
 
 ## How It Works
 
@@ -123,42 +125,42 @@ Distributes rewards:
 
 ### Before Resolution
 
-- Understand market criteria
-- Know how to verify outcome
-- Be available after deadline
+* Understand market criteria
+* Know how to verify outcome
+* Be available after deadline
 
 ### During Resolution
 
-- Review real-world outcome objectively
-- Gather evidence if needed
-- Document verification process
+* Review real-world outcome objectively
+* Gather evidence if needed
+* Document verification process
 
 ### After Resolution
 
-- Submit resolution promptly
-- Respond to disputes if any
-- Maintain reputation
+* Submit resolution promptly
+* Respond to disputes if any
+* Maintain reputation
 
 ## Verification Methods
 
 ### Physical Evidence
 
-- Photos (weight loss, completed project)
-- Screenshots (bank balance, test scores)
-- Documents (receipts, certificates)
+* Photos (weight loss, completed project)
+* Screenshots (bank balance, test scores)
+* Documents (receipts, certificates)
 
 ### Official Sources
 
-- News articles
-- Sports results
-- Weather data
-- Stock prices
+* News articles
+* Sports results
+* Weather data
+* Stock prices
 
 ### Personal Verification
 
-- Witness testimony
-- Group consensus
-- Direct observation
+* Witness testimony
+* Group consensus
+* Direct observation
 
 ## Trust Model
 
@@ -166,21 +168,21 @@ Distributes rewards:
 
 **Social Accountability**
 
-- Judges are your friends
-- Reputation matters
-- Bad judges get removed
+* Judges are your friends
+* Reputation matters
+* Bad judges get removed
 
 **On-Chain Record**
 
-- All resolutions recorded
-- Transparent history
-- Can't change past decisions
+* All resolutions recorded
+* Transparent history
+* Can't change past decisions
 
 **Group Consensus**
 
-- Can dispute if needed
-- Admin can override
-- Community governance
+* Can dispute if needed
+* Admin can override
+* Community governance
 
 ### Judge Reputation
 
@@ -206,10 +208,10 @@ Judge: Reza
 
 When market should be cancelled:
 
-- Criteria was ambiguous
-- Outcome impossible to verify
-- Market was unfair
-- External circumstances prevented resolution
+* Criteria was ambiguous
+* Outcome impossible to verify
+* Market was unfair
+* External circumstances prevented resolution
 
 **Effect:** Everyone gets refunded, no winners.
 
@@ -218,39 +220,33 @@ When market should be cancelled:
 ### If Resolution is Contested
 
 1. **Member Raises Dispute**
-
-   - Provide evidence
-   - Explain disagreement
-
+   * Provide evidence
+   * Explain disagreement
 2. **Group Discussion**
-
-   - Judge explains reasoning
-   - Members review evidence
-
+   * Judge explains reasoning
+   * Members review evidence
 3. **Admin Review**
-
-   - Admin makes final decision
-   - Can override judge if needed
-
+   * Admin makes final decision
+   * Can override judge if needed
 4. **Re-Resolution**
-   - Market re-resolved if needed
-   - Or declared INVALID with refunds
+   * Market re-resolved if needed
+   * Or declared INVALID with refunds
 
 ## Judge Selection
 
 ### Good Judge Qualities
 
-✅ Trustworthy  
-✅ Objective  
-✅ Available  
-✅ Knowledgeable about topic  
+✅ Trustworthy\
+✅ Objective\
+✅ Available\
+✅ Knowledgeable about topic\
 ✅ Good communicator
 
 ### Avoid
 
-❌ Participants in the market  
-❌ Biased towards outcome  
-❌ Unavailable after deadline  
+❌ Participants in the market\
+❌ Biased towards outcome\
+❌ Unavailable after deadline\
 ❌ Poor communication
 
 ## Multiple Judges
@@ -259,16 +255,16 @@ Groups can have multiple judges:
 
 ### Benefits
 
-- Backup if primary unavailable
-- Specialization (sports judge, finance judge)
-- Faster resolution
-- Reduced bias
+* Backup if primary unavailable
+* Specialization (sports judge, finance judge)
+* Faster resolution
+* Reduced bias
 
 ### Coordination
 
-- Any authorized judge can resolve
-- First resolution is final
-- Admins can reassign if needed
+* Any authorized judge can resolve
+* First resolution is final
+* Admins can reassign if needed
 
 ## Technical Implementation
 
@@ -316,6 +312,6 @@ async function resolveMarket(judgeId, marketId, outcome) {
 }
 ```
 
----
+***
 
-**Next:** [How It Works](../How-It-Works/README.md) | [Groups](Groups.md)
+**Next:** [How It Works](../How-It-Works/) | [Groups](Groups.md)
