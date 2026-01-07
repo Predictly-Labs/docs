@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Groups tab overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Groups dashboard showing active communities and join options</p></figcaption></figure>
 
 Groups are private prediction communities where friends compete, create markets, and build reputation together.
 
@@ -10,10 +10,10 @@ Groups are private prediction communities where friends compete, create markets,
 
 A group is a collection of friends who:
 
-* Create exclusive prediction markets
-* Compete on group leaderboards
-* Assign trusted judges
-* Share predictions and results
+- Create exclusive prediction markets
+- Compete on group leaderboards
+- Assign trusted judges
+- Share predictions and results
 
 ## Creating a Group
 
@@ -49,15 +49,15 @@ Invite Code: KOS-SQUAD-2025
 | ------------- | ---- | ----------------------------------------------------------- |
 | **Admin**     | 👑   | Full control, manage members, assign judges, create markets |
 | **Judge**     | ⚖️   | Resolve markets, verify outcomes                            |
-| **Moderator** | 🛡️  | Remove inappropriate content, help admin                    |
+| **Moderator** | 🛡️   | Remove inappropriate content, help admin                    |
 | **Member**    | 👤   | Create & vote on markets, participate                       |
 
 ### Role Assignment
 
-* **Admin**: Automatically assigned to group creator
-* **Judge**: Assigned by admin (can have multiple)
-* **Moderator**: Assigned by admin
-* **Member**: Default role for all joiners
+- **Admin**: Automatically assigned to group creator
+- **Judge**: Assigned by admin (can have multiple)
+- **Moderator**: Assigned by admin
+- **Member**: Default role for all joiners
 
 ## Group Features
 
@@ -82,39 +82,39 @@ Kos Squad Leaderboard
 
 ### Group Stats
 
-* Total markets created
-* Total volume traded
-* Active members
-* Group win rate
+- Total markets created
+- Total volume traded
+- Active members
+- Group win rate
 
 ### Invite System
 
-* Unique invite codes
-* Control who joins
-* Track invites
+- Unique invite codes
+- Control who joins
+- Track invites
 
 ## Group Management
 
 ### Admin Controls
 
-* Add/remove members
-* Assign/revoke roles
-* Delete inappropriate markets
-* Update group settings
-* View group analytics
+- Add/remove members
+- Assign/revoke roles
+- Delete inappropriate markets
+- Update group settings
+- View group analytics
 
 ### Moderation
 
-* Remove spam markets
-* Ban abusive members
-* Enforce group rules
+- Remove spam markets
+- Ban abusive members
+- Enforce group rules
 
 ### Settings
 
-* Group visibility (public/private)
-* Market creation permissions
-* Voting permissions
-* Minimum stake requirements
+- Group visibility (public/private)
+- Market creation permissions
+- Voting permissions
+- Minimum stake requirements
 
 ## Best Practices
 
@@ -136,15 +136,15 @@ Kos Squad Leaderboard
 
 ### Private Groups
 
-* Not listed publicly
-* Invite-only access
-* Markets hidden from non-members
+- Not listed publicly
+- Invite-only access
+- Markets hidden from non-members
 
 ### Public Groups
 
-* Listed in group directory
-* Anyone can join
-* Markets visible to all
+- Listed in group directory
+- Anyone can join
+- Markets visible to all
 
 ## Limits
 
@@ -155,6 +155,6 @@ Kos Squad Leaderboard
 | Max judges         | 10    |
 | Max moderators     | 5     |
 
-***
+---
 
 **Next:** [Judge System](Judge-System.md) | [Creating Markets](../How-It-Works/Creating-Markets.md)
