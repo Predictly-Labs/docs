@@ -31,7 +31,7 @@ A group is a collection of friends who:
 Group Name: Kos Squad
 Description: Predictions for our kos friends
 Icon: Upload image → Stored on IPFS
-Invite Code: KOS-SQUAD-2025
+Invite Code: KOS-SQUAD-2026
 ```
 
 ## Joining a Group

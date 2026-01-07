@@ -2,7 +2,7 @@
 
 ## Current Status: Hackathon MVP
 
-**M1 Hackathon Timeline:** December 2024 - January 2025
+**M1 Hackathon Timeline:** December 2025 - January 2026
 
 ### ✅ Completed (Week 1-2)
 
@@ -59,7 +59,7 @@
 
 ## Post-Hackathon Roadmap
 
-### Phase 1: Launch (Q1 2025) ✅
+### Phase 1: Launch (Q1 2025-2026) ✅
 
 **Status:** COMPLETED
 
@@ -82,7 +82,7 @@
 - ✅ Email digests (basic)
 - ✅ Mobile app (PWA responsive design)
 
-### Phase 2: Growth (Q2 2025)
+### Phase 2: Growth (Q2 2026)
 
 **Status:** IN PROGRESS
 
@@ -106,7 +106,7 @@
 - [ ] Tournament mode
 - [ ] Referral rewards
 
-### Phase 3: Scale (Q3 2025)
+### Phase 3: Scale (Q3 2026)
 
 **Platform Expansion**
 
@@ -126,7 +126,7 @@
 - Discord bot
 - Twitter integration
 
-### Phase 4: Ecosystem (Q4 2025)
+### Phase 4: Ecosystem (Q4 2026)
 
 **Developer Platform**
 
@@ -214,14 +214,14 @@
 - ✅ Demo-ready
 - Documentation complete
 
-### Launch Goals (Q1 2025)
+### Launch Goals (Q1 2025-2026)
 
 - 100+ active users
 - 10+ active groups
 - 500+ predictions created
 - 95%+ uptime
 
-### Growth Goals (Q2 2025)
+### Growth Goals (Q2 2026)
 
 - 1,000+ active users
 - 100+ active groups
@@ -250,4 +250,4 @@
 
 **Last Updated:** January 2026  
 **Current Phase:** Hackathon MVP  
-**Next Milestone:** Mainnet Launch (Q1 2025)
+**Next Milestone:** Mainnet Launch (Q2-Q3 2026)

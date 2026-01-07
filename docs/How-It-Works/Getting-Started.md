@@ -6,9 +6,9 @@ Welcome to Predictly! This guide will help you get started in 5 minutes.
 
 ## What You'll Need
 
-* A web browser (Chrome, Firefox, Safari, or Edge)
-* A Web3 wallet (Nightly, Petra, or Martian)
-* A few MOVE tokens (get free testnet tokens)
+- A web browser (Chrome, Firefox, Safari, or Edge)
+- A Web3 wallet (Nightly, Petra, or Martian)
+- A few MOVE tokens (get free testnet tokens)
 
 ## Step 1: Connect Your Wallet
 
@@ -21,7 +21,7 @@ Welcome to Predictly! This guide will help you get started in 5 minutes.
 
 **Need help?** See [Wallet Setup Guide](Wallet-Setup.md)
 
-***
+---
 
 ## Step 2: Get Test MOVE Tokens
 
@@ -31,15 +31,15 @@ You need MOVE tokens to participate in predictions.
 
 1. Go to [Movement Faucet](https://faucet.movementnetwork.xyz/)
 2. Enter your wallet address
-   * Find it in top-right corner of Predictly
-   * Or copy from your wallet app
+   - Find it in top-right corner of Predictly
+   - Or copy from your wallet app
 3. Click **"Request Tokens"**
 4. Wait 10-30 seconds
 5. ✅ You'll receive 1 MOVE
 
 **Note:** Testnet tokens have no real value. They're for testing only!
 
-***
+---
 
 ## Step 3: Join or Create a Group
 
@@ -51,22 +51,22 @@ You need MOVE tokens to participate in predictions.
 4. Click **"Join"**
 5. ✅ You're now a member!
 
-**Example invite code:** `KOS-SQUAD-2025`
+**Example invite code:** `KOS-SQUAD-2026`
 
 ### Create Your Own Group
 
 1. Click **"Create Group"**
 2. Fill in details:
-   * **Name:** Your group name (e.g., "Kos Squad")
-   * **Description:** What's your group about?
-   * **Icon:** Upload an image (optional)
+   - **Name:** Your group name (e.g., "Kos Squad")
+   - **Description:** What's your group about?
+   - **Icon:** Upload an image (optional)
 3. Click **"Create"**
 4. ✅ Get your unique invite code
 5. Share the code with friends!
 
 **Tip:** You become the admin automatically and can assign judges.
 
-***
+---
 
 ## Step 4: Browse Markets
 
@@ -77,9 +77,9 @@ You need MOVE tokens to participate in predictions.
 1. Click **"Explore"** in sidebar
 2. Browse all public markets
 3. Filter by:
-   * Active / Pending / Resolved
-   * Category
-   * Time remaining
+   - Active / Pending / Resolved
+   - Category
+   - Time remaining
 
 **Group Markets:**
 
@@ -91,14 +91,14 @@ You need MOVE tokens to participate in predictions.
 
 Each market shows:
 
-* **Title:** The prediction question
-* **Description:** Detailed criteria
-* **Deadline:** When voting closes
-* **Pool:** Total MOVE staked
-* **Odds:** YES vs NO percentages
-* **Participants:** Number of voters
+- **Title:** The prediction question
+- **Description:** Detailed criteria
+- **Deadline:** When voting closes
+- **Pool:** Total MOVE staked
+- **Odds:** YES vs NO percentages
+- **Participants:** Number of voters
 
-***
+---
 
 ## Step 5: Place Your First Vote
 
@@ -108,9 +108,9 @@ Each market shows:
 2. Choose **YES** or **NO**
 3. Enter stake amount (minimum 0.1 MOVE)
 4. Review:
-   * Your prediction
-   * Stake amount
-   * Potential reward
+   - Your prediction
+   - Stake amount
+   - Potential reward
 5. Click **"Place Vote"**
 6. Approve transaction in wallet
 7. ✅ Vote placed!
@@ -118,7 +118,7 @@ Each market shows:
 **Example:**
 
 ```
-Market: "Will Bitcoin reach $100k by end of 2025?"
+Market: "Will Bitcoin reach $100k by end of 2026?"
 Your vote: YES
 Stake: 1 MOVE
 Current odds: 60% YES, 40% NO
@@ -127,7 +127,7 @@ Potential reward: ~0.67 MOVE profit
 
 **Tip:** Start small! Try 0.1-0.5 MOVE for your first vote.
 
-***
+---
 
 ## Step 6: Wait for Resolution
 
@@ -143,12 +143,12 @@ Potential reward: ~0.67 MOVE profit
 1. Go to **"My Predictions"**
 2. See all your active votes
 3. Check status:
-   * 🟢 **Active:** Still voting
-   * 🟡 **Pending:** Waiting for judge
-   * ✅ **Won:** You won!
-   * ❌ **Lost:** Better luck next time
+   - 🟢 **Active:** Still voting
+   - 🟡 **Pending:** Waiting for judge
+   - ✅ **Won:** You won!
+   - ❌ **Lost:** Better luck next time
 
-***
+---
 
 ## Step 7: Claim Your Rewards
 
@@ -171,7 +171,7 @@ Profit: 0.67 MOVE (+67%)
 
 **See detailed guide:** [Claiming Rewards](Claiming-Rewards.md)
 
-***
+---
 
 ## Quick Tips
 
@@ -191,24 +191,24 @@ Profit: 0.67 MOVE (+67%)
 ❌ **Don't forget to claim rewards**\
 ❌ **Don't vote after deadline (won't work)**
 
-***
+---
 
 ## What's Next?
 
 ### Learn More
 
-* [Wallet Setup](Wallet-Setup.md) - Detailed wallet guide
-* [Creating Markets](Creating-Markets.md) - Make your own predictions
-* [Voting Guide](Voting-Guide.md) - Advanced voting strategies
-* [Groups](../Products/Groups.md) - Group features explained
+- [Wallet Setup](Wallet-Setup.md) - Detailed wallet guide
+- [Creating Markets](Creating-Markets.md) - Make your own predictions
+- [Voting Guide](Voting-Guide.md) - Advanced voting strategies
+- [Groups](../Products/Groups.md) - Group features explained
 
 ### Get Help
 
-* Check [FAQ](../Resources/FAQ.md)
-* Join [Community](../Resources/Community.md)
-* Read [Troubleshooting](../Resources/Troubleshooting.md)
+- Check [FAQ](../Resources/FAQ.md)
+- Join [Community](../Resources/Community.md)
+- Read [Troubleshooting](../Resources/Troubleshooting.md)
 
-***
+---
 
 ## Summary
 
@@ -224,6 +224,6 @@ Profit: 0.67 MOVE (+67%)
 
 **Ready to predict?** [Start Now →](https://predictly-labs.vercel.app)
 
-***
+---
 
 **Need Help?** Join our [Discord](../Resources/Community.md) or check [Troubleshooting](../Resources/Troubleshooting.md)
