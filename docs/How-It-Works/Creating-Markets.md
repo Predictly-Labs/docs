@@ -17,11 +17,11 @@ Anyone can create prediction markets for **FREE** (no gas fees). The backend pay
 
 ### Market Types
 
-| Type           | Access         | Risk   | Best For                        |
-| -------------- | -------------- | ------ | ------------------------------- |
-| **Full Degen** | Public/Private | High   | High conviction predictions     |
-| **Zero Loss**  | Public/Private | None   | Risk-averse users (coming soon) |
-| **Private**    | Group only     | Varies | Friend group predictions        |
+| Type           | Access         | Risk   | Best For                    |
+| -------------- | -------------- | ------ | --------------------------- |
+| **Full Degen** | Public/Private | High   | High conviction predictions |
+| **Zero Loss**  | Public/Private | None   | Risk-averse users (Live)    |
+| **Private**    | Group only     | Varies | Friend group predictions    |
 
 ---
 
