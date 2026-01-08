@@ -172,32 +172,10 @@ Predictly supports multiple wallet options:
 4. Try faucet again (after 24h)
 5. Ask in Discord
 
-### Lost Recovery Phrase
-
-**Problem:** Can't find recovery phrase
-
-**Solution:**
-
-* **Email wallet:** Reset via email
-* **Web3 wallet:** **NO RECOVERY POSSIBLE**
-  * Create new wallet
-  * Transfer funds before losing access
-  * Always backup recovery phrase!
 
 ***
 
 ## Switching Wallets
-
-### From Email to Web3 Wallet
-
-1. Create Web3 wallet (see above)
-2. Get wallet address
-3. In Predictly:
-   * Go to Settings
-   * Click "Export Private Key" (if available)
-   * Or transfer funds manually
-4. Disconnect email wallet
-5. Connect Web3 wallet
 
 ### From One Web3 Wallet to Another
 
