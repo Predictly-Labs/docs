@@ -12,7 +12,7 @@ Predictly supports multiple wallet options:
 
 ***
 
-## Recommenduusing: Nightly Wallet
+## Recommendo using: Nightly Wallet
 
 ### Installation
 
@@ -99,37 +99,10 @@ Predictly supports multiple wallet options:
 
 ***
 
-## Option 4: Martian Wallet
+###
 
-### Installation
-
-1. Go to [martianwallet.xyz](https://martianwallet.xyz/)
-2. Click **"Download"**
-3. Install extension
-4. Open extension
-5. Click **"Create Wallet"**
-
-### Setup
-
-Similar to Petra:
-
-1. Create password
-2. Save recovery phrase (12 words)
-3. Verify phrase
-4. Add Movement Network:
-   * Settings → Networks
-   * Add Custom Network
-   * Name: Movement Testnet
-   * RPC: `https://testnet.movementnetwork.xyz/v1`
-   * Chain ID: 177
-
-### Connect to Predictly
-
-1. Go to Predictly
-2. Click **"Connect Wallet"**
-3. Select **"Martian"**
-4. Approve connection
-5. ✅ Connected!
+1. Add Movement Network:
+   *
 
 ***
 
