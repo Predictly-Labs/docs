@@ -12,7 +12,7 @@ Predictly supports multiple wallet options:
 
 ***
 
-## Recommendo using: Nightly Wallet
+## Recommended using: Nightly Wallet
 
 ### Installation
 
@@ -49,60 +49,6 @@ Predictly supports multiple wallet options:
 3. Select **"Nightly"**
 4. Approve connection in popup
 5. ✅ Connected!
-
-***
-
-## Option 3: Petra Wallet
-
-### Installation
-
-1. Go to [petra.app](https://petra.app/)
-2. Click **"Download"**
-3. Install Chrome extension
-4. Open extension
-5. Click **"Create New Wallet"**
-
-### Setup
-
-1. **Accept Terms**
-   * Read terms of service
-   * Click "Accept"
-2. **Create Password**
-   * Enter strong password
-   * Confirm password
-   * Click "Continue"
-3. **Save Recovery Phrase**
-   * Click "Reveal"
-   * Write down 12 words
-   * Store securely
-   * Click "Continue"
-4. **Verify Phrase**
-   * Select words in order
-   * Click "Continue"
-5. **Switch to Movement**
-   * Click Settings (gear icon)
-   * Click "Network"
-   * Select **"Movement Testnet"**
-   * Or add custom:
-     * Name: Movement Testnet
-     * RPC: `https://testnet.movementnetwork.xyz/v1`
-     * Chain ID: 177
-6. ✅ Ready!
-
-### Connect to Predictly
-
-1. Go to Predictly
-2. Click **"Connect Wallet"**
-3. Select **"Petra"**
-4. Approve connection
-5. ✅ Connected!
-
-***
-
-###
-
-1. Add Movement Network:
-   *
 
 ***
 
