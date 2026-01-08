@@ -6,7 +6,7 @@ Predictly is a social-first decentralized prediction market platform built on Mo
 
 **Value Proposition:** The first prediction market platform designed specifically for small social groups, offering flexible risk models (including zero-loss options), gasless participation, and community-driven resolution.
 
----
+***
 
 ## Market Analysis
 
@@ -27,26 +27,26 @@ Current prediction markets are built for anonymous speculation, not social inter
 
 The prediction market industry is booming:
 
-- **$23B+ trading volume** on platforms like Polymarket
-- **Growing adoption** of decentralized prediction markets
-- **Zero competitors** focused on small social groups
+* **$23B+ trading volume** on platforms like Polymarket
+* **Growing adoption** of decentralized prediction markets
+* **Zero competitors** focused on small social groups
 
 **Market White Space:** While traditional platforms focus on high-stakes public markets, **zero** prediction markets exist specifically designed for **small social groups** and friend communities.
 
 ### Target Market
 
-- **Primary:** Friend groups (5-50 people) who want to make predictions together
-- **Secondary:** Small communities, clubs, and organizations
-- **Tertiary:** Larger communities seeking private prediction markets
+* **Primary:** Friend groups (5-50 people) who want to make predictions together
+* **Secondary:** Small communities, clubs, and organizations
+* **Tertiary:** Larger communities seeking private prediction markets
 
 **Use Cases:**
 
-- Sports predictions with friends
-- Personal achievement bets
-- Community event outcomes
-- Group challenges and competitions
+* Sports predictions with friends
+* Personal achievement bets
+* Community event outcomes
+* Group challenges and competitions
 
----
+***
 
 ## Product Solution
 
@@ -58,41 +58,41 @@ Predictly is a social-first prediction market that lets friends and communities 
 
 #### 1. Social-First Design 👥
 
-- **Private Groups** - Create exclusive prediction communities
-- **Invite Codes** - Control who joins your group
-- **Leaderboards** - Track and compete with friends
-- **Role Management** - Admin, Judge, Moderator, Member roles
+* **Private Groups** - Create exclusive prediction communities
+* **Invite Codes** - Control who joins your group
+* **Leaderboards** - Track and compete with friends
+* **Role Management** - Admin, Judge, Moderator, Member roles
 
 #### 2. Flexible Risk Models 🎲
 
 **Degen Mode (Live)**
 
-- Standard prediction markets with MOVE tokens
-- Winners take proportional share of losing pool
-- High risk, high reward
+* Standard prediction markets with MOVE tokens
+* Winners take proportional share of losing pool
+* High risk, high reward
 
 **Zero-Loss Prediction (Live) ✅**
 
-- Stake MOVE tokens with principal protection
-- Only DeFi yield is at risk (5% APY simulated)
-- Winners earn from generated yield
-- Perfect for risk-averse users
-- Fully implemented in smart contracts
+* Stake MOVE tokens with principal protection
+* Only DeFi yield is at risk (5% APY simulated)
+* Winners earn from generated yield
+* Perfect for risk-averse users
+* Fully implemented in smart contracts
 
 #### 3. Enhanced UX ⚡
 
-- **Gasless Participation** - Meta-transactions for free market creation
-- **Simple YES/NO** - Easy to understand binary predictions
-- **Wallet Integration** - Support for Nightly, Petra, Martian
-- **Fast Settlement** - Built on Movement Network for speed
+* **Gasless Participation** - Meta-transactions for free market creation
+* **Simple YES/NO** - Easy to understand binary predictions
+* **Wallet Integration** - Support for Nightly, Petra, Martian
+* **Fast Settlement** - Built on Movement Network for speed
 
 #### 4. Community Resolution ⚖️
 
-- **Trusted Judges** - Group admins assign judges
-- **Transparent Process** - All resolutions recorded on-chain
-- **Fair Outcomes** - Community-driven decision making
+* **Trusted Judges** - Group admins assign judges
+* **Transparent Process** - All resolutions recorded on-chain
+* **Fair Outcomes** - Community-driven decision making
 
----
+***
 
 ## Revenue Model
 
@@ -102,15 +102,15 @@ Predictly generates revenue through two primary streams:
 
 **1-3% fee on every prediction pool**
 
-- Applied when markets are resolved
-- Automatically deducted from pool
-- Scales with platform volume
+* Applied when markets are resolved
+* Automatically deducted from pool
+* Scales with platform volume
 
 **Example:**
 
-- Pool size: 100 MOVE
-- Fee (2%): 2 MOVE
-- Distributed to winners: 98 MOVE
+* Pool size: 100 MOVE
+* Fee (2%): 2 MOVE
+* Distributed to winners: 98 MOVE
 
 ### 2. Subscription Plans
 
@@ -120,12 +120,12 @@ Predictly generates revenue through two primary streams:
 
 **Features:**
 
-- Unlimited market creation
-- Advanced analytics and insights
-- Priority support
-- Custom group branding
-- Export data and reports
-- Early access to new features
+* Unlimited market creation
+* Advanced analytics and insights
+* Priority support
+* Custom group branding
+* Export data and reports
+* Early access to new features
 
 #### Enterprise Plan - $99/month
 
@@ -133,13 +133,13 @@ Predictly generates revenue through two primary streams:
 
 **Features:**
 
-- Everything in Pro
-- White-label options
-- Dedicated account manager
-- Custom integrations
-- API access
-- Multi-group management
-- Advanced admin controls
+* Everything in Pro
+* White-label options
+* Dedicated account manager
+* Custom integrations
+* API access
+* Multi-group management
+* Advanced admin controls
 
 ### Revenue Projections
 
@@ -163,7 +163,7 @@ Predictly generates revenue through two primary streams:
 | Subscription Revenue | $10,000-30,000/month |
 | **Total MRR**        | **$15,000-45,000**   |
 
----
+***
 
 ## Go-to-Market Strategy
 
@@ -173,11 +173,11 @@ Predictly generates revenue through two primary streams:
 
 **Tactics:**
 
-- Launch on Movement Testnet
-- Partner with crypto communities and DAOs
-- Referral program for early adopters
-- Content marketing (guides, tutorials)
-- Social media presence (Twitter, Discord)
+* Launch on Movement Testnet
+* Partner with crypto communities and DAOs
+* Referral program for early adopters
+* Content marketing (guides, tutorials)
+* Social media presence (Twitter, Discord)
 
 **Target:** 100-500 active users
 
@@ -187,12 +187,12 @@ Predictly generates revenue through two primary streams:
 
 **Tactics:**
 
-- Mainnet launch
-- Expand DeFi yield integrations
-- Launch Pro subscription tier
-- Community ambassador program
-- Partnership with influencers
-- Sponsored prediction markets
+* Mainnet launch
+* Expand DeFi yield integrations
+* Launch Pro subscription tier
+* Community ambassador program
+* Partnership with influencers
+* Sponsored prediction markets
 
 **Target:** 1,000-5,000 active users
 
@@ -202,15 +202,15 @@ Predictly generates revenue through two primary streams:
 
 **Tactics:**
 
-- Roll out Enterprise plan
-- Optimize transaction fees
-- Launch API for third-party integrations
-- White-label solutions for organizations
-- Premium features and add-ons
+* Roll out Enterprise plan
+* Optimize transaction fees
+* Launch API for third-party integrations
+* White-label solutions for organizations
+* Premium features and add-ons
 
 **Target:** $10,000+ MRR
 
----
+***
 
 ## Roadmap & Milestones
 
@@ -218,19 +218,19 @@ Predictly generates revenue through two primary streams:
 
 **Status:** COMPLETED
 
-- ✅ Develop Predictly dApp (frontend, backend, smart contracts)
-- ✅ Establish brand identity and positioning
-- ✅ Submit to Movement Mammothon Hackathon
-- ✅ Deploy to Movement Testnet (Bardock)
+* ✅ Develop Predictly dApp (frontend, backend, smart contracts)
+* ✅ Establish brand identity and positioning
+* ✅ Submit to Movement Mammothon Hackathon
+* ✅ Deploy to Movement Testnet (Bardock)
 
 **Achievements:**
 
-- Working MVP with core features
-- Smart contracts deployed and tested
-- Documentation completed
-- Live demo available
+* Working MVP with core features
+* Smart contracts deployed and tested
+* Documentation completed
+* Live demo available
 
----
+***
 
 ### Q1 2025-2026: Public Testnet Launch ✅
 
@@ -238,29 +238,29 @@ Predictly generates revenue through two primary streams:
 
 **Objectives:**
 
-- Release on Movement Testnet for public testing
-- Implement core revenue mechanisms
-- Begin user acquisition and community building
+* Release on Movement Testnet for public testing
+* Implement core revenue mechanisms
+* Begin user acquisition and community building
 
 **Key Deliverables:**
 
-- ✅ Public testnet launch
-- ✅ Onboard first 100-500 users
-- ✅ Implement transaction fee system
-- ✅ Launch referral program
-- ✅ Create educational content
-- ✅ Build Discord community
+* ✅ Public testnet launch
+* ✅ Onboard first 100-500 users
+* ✅ Implement transaction fee system
+* ✅ Launch referral program
+* ✅ Create educational content
+* ✅ Build Discord community
 
 **Achievements:**
 
-- Platform live on Movement Testnet (Bardock)
-- Full-featured web app deployed (predictly-movement.vercel.app)
-- Backend API operational (backend-3ufs.onrender.com)
-- Comprehensive documentation on GitBook
-- Active user base growing
-- Core features: Groups, Markets, Voting, Leaderboards, Judge System
+* Platform live on Movement Testnet (Bardock)
+* Full-featured web app deployed (predictly-movement.vercel.app)
+* Backend API operational (backend-3ufs.onrender.com)
+* Comprehensive documentation on GitBook
+* Active user base growing
+* Core features: Groups, Markets, Voting, Leaderboards, Judge System
 
----
+***
 
 ### Q2 2026: Growth & Monetization
 
@@ -268,52 +268,52 @@ Predictly generates revenue through two primary streams:
 
 **Objectives:**
 
-- Drive user growth through improved features
-- Expand DeFi yield integrations
-- Roll out subscription monetization
+* Drive user growth through improved features
+* Expand DeFi yield integrations
+* Roll out subscription monetization
 
 **Key Deliverables:**
 
-- ✅ Zero-Loss prediction markets (DeFi yield)
-- [ ] Pro subscription tier launch
-- ✅ Advanced analytics dashboard
-- ✅ Mobile app (PWA)
-- [ ] Partnership integrations
-- ✅ Community building features
+* [ ] ✅ Zero-Loss prediction markets (DeFi yield)
+* [ ] Pro subscription tier launch
+* [ ] ✅ Advanced analytics dashboard
+* [ ] ✅ Mobile app (PWA)
+* [ ] Partnership integrations
+* [ ] ✅ Community building features
 
 **Success Metrics:**
 
-- 1,000+ active users
-- 10,000+ predictions created
-- 100+ active groups
-- $5,000+ MRR
+* 1,000+ active users
+* 10,000+ predictions created
+* 100+ active groups
+* $5,000+ MRR
 
----
+***
 
 ### Q3-Q4 2026: Ecosystem Expansion
 
 **Objectives:**
 
-- Scale platform and expand ecosystem
-- Launch developer tools and API
-- Explore governance and DAO formation
+* Scale platform and expand ecosystem
+* Launch developer tools and API
+* Explore governance and DAO formation
 
 **Key Deliverables:**
 
-- [ ] Enterprise subscription tier
-- [ ] API for third-party developers
-- [ ] SDK for easy integration
-- [ ] White-label solutions
-- [ ] Governance token (optional)
-- [ ] DAO formation (optional)
+* [ ] Enterprise subscription tier
+* [ ] API for third-party developers
+* [ ] SDK for easy integration
+* [ ] White-label solutions
+* [ ] Governance token (optional)
+* [ ] DAO formation (optional)
 
 **Success Metrics:**
 
-- 10,000+ active users
-- 100,000+ predictions created
-- $50,000+ MRR
+* 10,000+ active users
+* 100,000+ predictions created
+* $50,000+ MRR
 
----
+***
 
 ## Competitive Advantage
 
@@ -337,46 +337,47 @@ Predictly generates revenue through two primary streams:
 5. **Community Resolution** - Trusted judges, not algorithms
 6. **Gasless UX** - Free market creation and participation
 
----
+***
 
 ## Risk Mitigation
 
 ### Market Risks
 
-**Risk:** Low adoption in prediction market space  
+**Risk:** Low adoption in prediction market space\
 **Mitigation:** Focus on social use cases (friend bets, community challenges) rather than competing with large platforms
 
-**Risk:** Regulatory uncertainty around prediction markets  
+**Risk:** Regulatory uncertainty around prediction markets\
 **Mitigation:** Start with non-financial predictions, implement KYC/AML if needed, legal counsel
 
 ### Technical Risks
 
-**Risk:** Smart contract vulnerabilities  
+**Risk:** Smart contract vulnerabilities\
 **Mitigation:** Move language security features, formal verification, audits before mainnet
 
-**Risk:** Scalability issues  
+**Risk:** Scalability issues\
 **Mitigation:** Built on Movement Network (high throughput), hybrid architecture
 
 ### Business Risks
 
-**Risk:** Difficulty monetizing early users  
+**Risk:** Difficulty monetizing early users\
 **Mitigation:** Transaction fees scale with volume, freemium model with free tier
 
-**Risk:** Competition from established platforms  
+**Risk:** Competition from established platforms\
 **Mitigation:** Focus on underserved niche (social groups), differentiate with zero-loss markets
 
----
+***
 
 ## Team & Execution
 
-Built with ❤️ by the Predictly Labs team for the Movement Mammothon Hackathon.
+Built with ❤️ by the Predictly Labs team for the Movement M1 Hackathon.
 
 **Tracks:**
 
-- Best Consumer App built on Movement
-- The People's Choice
+* Best Consumer App built on Movement
+* The People's Choice
+* Build DeFi applications on Movement
 
----
+***
 
 ## Conclusion
 
@@ -390,10 +391,10 @@ Predictly addresses a clear market gap: **zero prediction markets exist for smal
 4. Roll out monetization features
 5. Scale to 5,000+ users by Q2 2026
 
----
+***
 
 **For More Information:**
 
-- [Revenue Model](Revenue-Model.md) - Detailed pricing and projections
-- [Market Analysis](Market-Analysis.md) - Deep dive into market opportunity
-- [Roadmap](../Mission/Roadmap.md) - Technical development roadmap
+* [Revenue Model](Revenue-Model.md) - Detailed pricing and projections
+* [Market Analysis](Market-Analysis.md) - Deep dive into market opportunity
+* [Roadmap](../Mission/Roadmap.md) - Technical development roadmap

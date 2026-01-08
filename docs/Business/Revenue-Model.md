@@ -4,7 +4,7 @@
 
 Predictly generates revenue through a dual-stream model: **transaction fees** on prediction pools and **subscription plans** for advanced features. This approach balances accessibility (free basic usage) with sustainable monetization.
 
----
+***
 
 ## Revenue Stream 1: Transaction Fees
 
@@ -12,9 +12,9 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 
 **1-3% fee applied to every prediction pool upon resolution**
 
-- Fee is automatically deducted when markets are resolved
-- Percentage may vary based on pool size or market type
-- Scales naturally with platform volume
+* Fee is automatically deducted when markets are resolved
+* Percentage may vary based on pool size or market type
+* Scales naturally with platform volume
 
 ### Fee Breakdown
 
@@ -29,23 +29,23 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 
 **When fees are charged:**
 
-- ✅ Market resolution (when winner is determined)
-- ✅ Reward distribution (deducted from total pool)
+* ✅ Market resolution (when winner is determined)
+* ✅ Reward distribution (deducted from total pool)
 
 **When fees are NOT charged:**
 
-- ❌ Market creation
-- ❌ Placing votes/predictions
-- ❌ Claiming rewards (already deducted at resolution)
+* ❌ Market creation
+* ❌ Placing votes/predictions
+* ❌ Claiming rewards (already deducted at resolution)
 
 ### Rationale
 
-- **Industry Standard:** Most prediction markets charge 1-5% fees
-- **Sustainable:** Covers infrastructure, development, and support costs
-- **Fair:** Only charged when value is delivered (market resolution)
-- **Scalable:** Revenue grows with platform usage
+* **Industry Standard:** Most prediction markets charge 1-5% fees
+* **Sustainable:** Covers infrastructure, development, and support costs
+* **Fair:** Only charged when value is delivered (market resolution)
+* **Scalable:** Revenue grows with platform usage
 
----
+***
 
 ## Revenue Stream 2: Subscription Plans
 
@@ -55,21 +55,21 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 
 **Features:**
 
-- ✅ Join unlimited groups
-- ✅ Participate in unlimited markets
-- ✅ Create up to 5 markets per month
-- ✅ Basic leaderboards
-- ✅ Standard support
+* ✅ Join unlimited groups
+* ✅ Participate in unlimited markets
+* ✅ Create up to 5 markets per month
+* ✅ Basic leaderboards
+* ✅ Standard support
 
 **Limitations:**
 
-- ⚠️ Limited market creation (5/month)
-- ⚠️ No advanced analytics
-- ⚠️ No custom branding
+* ⚠️ Limited market creation (5/month)
+* ⚠️ No advanced analytics
+* ⚠️ No custom branding
 
----
+***
 
-### Pro Plan - $29/month
+### Pro Plan - $10/month
 
 **Target:** Power users, active group admins, and serious predictors
 
@@ -77,42 +77,42 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 
 #### Market Creation
 
-- ✅ **Unlimited market creation**
-- ✅ Priority market placement
-- ✅ Custom market templates
+* ✅ **Unlimited market creation**
+* ✅ Priority market placement
+* ✅ Custom market templates
 
 #### Analytics & Insights
 
-- ✅ **Advanced analytics dashboard**
-- ✅ Performance tracking and trends
-- ✅ Win rate statistics
-- ✅ ROI calculations
-- ✅ Export data (CSV, JSON)
+* ✅ **Advanced analytics dashboard**
+* ✅ Performance tracking and trends
+* ✅ Win rate statistics
+* ✅ ROI calculations
+* ✅ Export data (CSV, JSON)
 
 #### Customization
 
-- ✅ **Custom group branding**
-- ✅ Custom group colors and themes
-- ✅ Upload custom group icons
+* ✅ **Custom group branding**
+* ✅ Custom group colors and themes
+* ✅ Upload custom group icons
 
 #### Support & Access
 
-- ✅ **Priority customer support**
-- ✅ Early access to new features
-- ✅ Beta testing opportunities
-- ✅ Direct feedback channel
+* ✅ **Priority customer support**
+* ✅ Early access to new features
+* ✅ Beta testing opportunities
+* ✅ Direct feedback channel
 
 #### Notifications
 
-- ✅ Advanced notification settings
-- ✅ Email digests
-- ✅ Custom alerts
+* ✅ Advanced notification settings
+* ✅ Email digests
+* ✅ Custom alerts
 
-**Value Proposition:** For $29/month, power users get unlimited creation, deep insights, and priority support—perfect for active group admins.
+**Value Proposition:** For $10/month, power users get unlimited creation, deep insights, and priority support—perfect for active group admins.
 
----
+***
 
-### Enterprise Plan - $99/month
+### Enterprise Plan - $20/month
 
 **Target:** Large communities, organizations, and professional groups
 
@@ -120,43 +120,43 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 
 #### Advanced Management
 
-- ✅ **Multi-group management**
-- ✅ Manage up to 10 groups from one dashboard
-- ✅ Bulk operations and automation
-- ✅ Advanced admin controls
+* ✅ **Multi-group management**
+* ✅ Manage up to 10 groups from one dashboard
+* ✅ Bulk operations and automation
+* ✅ Advanced admin controls
 
 #### White-Label Options
 
-- ✅ **Custom domain support** (coming soon)
-- ✅ Remove Predictly branding
-- ✅ Custom email templates
-- ✅ Branded reports
+* ✅ **Custom domain support** (coming soon)
+* ✅ Remove Predictly branding
+* ✅ Custom email templates
+* ✅ Branded reports
 
 #### Integration & API
 
-- ✅ **API access**
-- ✅ Webhook integrations
-- ✅ Custom integrations support
-- ✅ Developer documentation
+* ✅ **API access**
+* ✅ Webhook integrations
+* ✅ Custom integrations support
+* ✅ Developer documentation
 
 #### Dedicated Support
 
-- ✅ **Dedicated account manager**
-- ✅ Priority bug fixes
-- ✅ Custom feature requests
-- ✅ Onboarding assistance
-- ✅ Training sessions
+* ✅ **Dedicated account manager**
+* ✅ Priority bug fixes
+* ✅ Custom feature requests
+* ✅ Onboarding assistance
+* ✅ Training sessions
 
 #### Security & Compliance
 
-- ✅ Enhanced security features
-- ✅ Audit logs
-- ✅ Compliance reporting
-- ✅ SLA guarantees
+* ✅ Enhanced security features
+* ✅ Audit logs
+* ✅ Compliance reporting
+* ✅ SLA guarantees
 
-**Value Proposition:** For $99/month, organizations get white-label options, API access, and dedicated support—ideal for large communities and professional use.
+**Value Proposition:** For $20/month, organizations get white-label options, API access, and dedicated support—ideal for large communities and professional use.
 
----
+***
 
 ## Subscription Comparison
 
@@ -164,15 +164,15 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 | -------------------------- | -------- | ------------ | ------------------- |
 | **Market Creation**        | 5/month  | Unlimited    | Unlimited           |
 | **Analytics**              | Basic    | Advanced     | Advanced + Custom   |
-| **Custom Branding**        | ❌       | ✅           | ✅ + White-label    |
-| **API Access**             | ❌       | ❌           | ✅                  |
+| **Custom Branding**        | ❌        | ✅            | ✅ + White-label     |
+| **API Access**             | ❌        | ❌            | ✅                   |
 | **Support**                | Standard | Priority     | Dedicated Manager   |
-| **Multi-Group Management** | ❌       | ❌           | ✅ (up to 10)       |
-| **Export Data**            | ❌       | ✅           | ✅                  |
-| **Early Access**           | ❌       | ✅           | ✅                  |
-| **Custom Integrations**    | ❌       | ❌           | ✅                  |
+| **Multi-Group Management** | ❌        | ❌            | ✅ (up to 10)        |
+| **Export Data**            | ❌        | ✅            | ✅                   |
+| **Early Access**           | ❌        | ✅            | ✅                   |
+| **Custom Integrations**    | ❌        | ❌            | ✅                   |
 
----
+***
 
 ## Revenue Projections
 
@@ -180,47 +180,47 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 
 **Assumptions:**
 
-- 1,000 active users
-- 10% conversion to Pro ($29/mo)
-- 2% conversion to Enterprise ($99/mo)
-- Average monthly volume: 50,000 MOVE
-- Average transaction fee: 2%
+* 1,000 active users
+* 10% conversion to Pro ($10/mo)
+* 2% conversion to Enterprise ($20/mo)
+* Average monthly volume: 50,000 MOVE
+* Average transaction fee: 2%
 
 **Monthly Recurring Revenue (MRR):**
 
 | Source                   | Calculation              | Revenue    |
 | ------------------------ | ------------------------ | ---------- |
 | Transaction Fees         | 50,000 MOVE × 2% × $0.50 | $500       |
-| Pro Subscriptions        | 100 users × $29          | $2,900     |
-| Enterprise Subscriptions | 20 users × $99           | $1,980     |
-| **Total MRR**            |                          | **$5,380** |
+| Pro Subscriptions        | 100 users × $10          | $1,000     |
+| Enterprise Subscriptions | 20 users × $20           | $400       |
+| **Total MRR**            |                          | **$1,900** |
 
-**Annual Recurring Revenue (ARR):** $64,560
+**Annual Recurring Revenue (ARR):** $22,800
 
----
+***
 
 ### Year 2 (Growth)
 
 **Assumptions:**
 
-- 10,000 active users
-- 15% conversion to Pro
-- 3% conversion to Enterprise
-- Average monthly volume: 500,000 MOVE
-- Average transaction fee: 2%
+* 10,000 active users
+* 15% conversion to Pro
+* 3% conversion to Enterprise
+* Average monthly volume: 500,000 MOVE
+* Average transaction fee: 2%
 
 **Monthly Recurring Revenue (MRR):**
 
 | Source                   | Calculation               | Revenue     |
 | ------------------------ | ------------------------- | ----------- |
 | Transaction Fees         | 500,000 MOVE × 2% × $0.50 | $5,000      |
-| Pro Subscriptions        | 1,500 users × $29         | $43,500     |
-| Enterprise Subscriptions | 300 users × $99           | $29,700     |
-| **Total MRR**            |                           | **$78,200** |
+| Pro Subscriptions        | 1,500 users × $10         | $15,000     |
+| Enterprise Subscriptions | 300 users × $20           | $6,000      |
+| **Total MRR**            |                           | **$26,000** |
 
-**Annual Recurring Revenue (ARR):** $938,400
+**Annual Recurring Revenue (ARR):** $312,000
 
----
+***
 
 ## Pricing Rationale
 
@@ -228,69 +228,61 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 
 **Why this range?**
 
-- **Competitive:** Polymarket charges 2%, Augur charges 1-2%
-- **Fair:** Lower than traditional betting platforms (5-10%)
-- **Sustainable:** Covers infrastructure and development costs
-- **Scalable:** Revenue grows with platform usage
+* **Competitive:** Polymarket charges 2%, Augur charges 1-2%
+* **Fair:** Lower than traditional betting platforms (5-10%)
+* **Sustainable:** Covers infrastructure and development costs
+* **Scalable:** Revenue grows with platform usage
 
-### Pro Plan ($29/month)
+### Pro Plan ($10/month)
 
 **Why $29?**
 
-- **Affordable:** Accessible to serious users and group admins
-- **Value-Packed:** Unlimited creation + analytics worth much more
-- **Competitive:** Similar to other SaaS tools ($20-50/month range)
-- **Psychological:** Under $30 threshold for impulse subscription
+* **Affordable:** Accessible to serious users and group admins
+* **Value-Packed:** Unlimited creation + analytics worth much more
+* **Competitive:** Similar to other SaaS tools ($20-50/month range)
+* **Psychological:** Under $30 threshold for impulse subscription
 
 **Target Customer:** Active group admin managing 2-5 groups, creating 10+ markets per month
 
 **Break-Even:** If user creates 6+ markets/month (vs. free tier limit of 5)
 
-### Enterprise Plan ($99/month)
+### Enterprise Plan ($20/month)
 
 **Why $99?**
 
-- **Professional Tier:** Signals serious, business-grade offering
-- **Value-Justified:** API access, white-label, dedicated support
-- **Competitive:** Lower than most B2B SaaS ($100-500/month)
-- **Psychological:** Under $100 threshold for small business budgets
+* **Professional Tier:** Signals serious, business-grade offering
+* **Value-Justified:** API access, white-label, dedicated support
+* **Competitive:** Lower than most B2B SaaS ($100-500/month)
+* **Psychological:** Under $100 threshold for small business budgets
 
 **Target Customer:** Organization or large community (50+ members), managing 5+ groups
 
 **Break-Even:** If organization values API access + white-label + support
 
----
+***
 
 ## Future Revenue Opportunities
 
 ### Additional Revenue Streams (Planned)
 
 1. **API Usage Fees**
-
-   - Charge per API call for high-volume users
-   - Tiered pricing based on usage
-
+   * Charge per API call for high-volume users
+   * Tiered pricing based on usage
 2. **White-Label Solutions**
-
-   - One-time setup fee: $5,000-$10,000
-   - Monthly licensing: $500-$1,000
-
+   * One-time setup fee: $5,000-$10,000
+   * Monthly licensing: $500-$1,000
 3. **Sponsored Markets**
-
-   - Brands pay to create featured markets
-   - $100-$1,000 per sponsored market
-
+   * Brands pay to create featured markets
+   * $100-$1,000 per sponsored market
 4. **Premium Features (À la Carte)**
-
-   - Advanced bots: $10/month
-   - Custom integrations: $50/month
-   - Additional storage: $5/month
-
+   * Advanced bots: $10/month
+   * Custom integrations: $50/month
+   * Additional storage: $5/month
 5. **Marketplace Commission**
-   - If we enable third-party market templates
-   - 20-30% commission on template sales
+   * If we enable third-party market templates
+   * 20-30% commission on template sales
 
----
+***
 
 ## Monetization Strategy
 
@@ -298,66 +290,66 @@ Predictly generates revenue through a dual-stream model: **transaction fees** on
 
 **Focus:** User acquisition and retention
 
-- ✅ Free tier for all users
-- ✅ Transaction fees only (1-2%)
-- ❌ No subscriptions yet
+* ✅ Free tier for all users
+* ✅ Transaction fees only (1-2%)
+* ❌ No subscriptions yet
 
 **Goal:** Reach 500-1,000 active users
 
----
+***
 
 ### Phase 2: Pro Launch (Q2 2026)
 
 **Focus:** Monetize power users
 
-- ✅ Launch Pro plan ($29/month)
-- ✅ Increase transaction fees to 2-3%
-- ❌ Enterprise not yet available
+* ✅ Launch Pro plan ($29/month)
+* ✅ Increase transaction fees to 2-3%
+* ❌ Enterprise not yet available
 
 **Goal:** 10% conversion rate, $5,000+ MRR
 
----
+***
 
 ### Phase 3: Enterprise & Scaling (Q3 2026)
 
 **Focus:** Capture organizational revenue
 
-- ✅ Launch Enterprise plan ($99/month)
-- ✅ Introduce API usage fees
-- ✅ Pilot white-label solutions
+* ✅ Launch Enterprise plan ($99/month)
+* ✅ Introduce API usage fees
+* ✅ Pilot white-label solutions
 
 **Goal:** 15% Pro conversion, 3% Enterprise conversion, $50,000+ MRR
 
----
+***
 
 ## Key Metrics to Track
 
 ### Revenue Metrics
 
-- Monthly Recurring Revenue (MRR)
-- Annual Recurring Revenue (ARR)
-- Average Revenue Per User (ARPU)
-- Customer Lifetime Value (LTV)
+* Monthly Recurring Revenue (MRR)
+* Annual Recurring Revenue (ARR)
+* Average Revenue Per User (ARPU)
+* Customer Lifetime Value (LTV)
 
 ### Conversion Metrics
 
-- Free → Pro conversion rate
-- Free → Enterprise conversion rate
-- Churn rate by tier
+* Free → Pro conversion rate
+* Free → Enterprise conversion rate
+* Churn rate by tier
 
 ### Volume Metrics
 
-- Total prediction volume (MOVE)
-- Average pool size
-- Transaction fee revenue
+* Total prediction volume (MOVE)
+* Average pool size
+* Transaction fee revenue
 
 ### User Metrics
 
-- Active users by tier
-- Markets created per user
-- Engagement rate
+* Active users by tier
+* Markets created per user
+* Engagement rate
 
----
+***
 
 ## Conclusion
 
@@ -370,9 +362,9 @@ Predictly's dual revenue model—transaction fees + subscriptions—provides:
 
 **Target:** $5,000+ MRR by Q2 2026, $50,000+ MRR by Q4 2026
 
----
+***
 
 **Related Documents:**
 
-- [Business Plan](Business-Plan.md) - Full business strategy
-- [Market Analysis](Market-Analysis.md) - Market opportunity and sizing
+* [Business Plan](Business-Plan.md) - Full business strategy
+* [Market Analysis](Market-Analysis.md) - Market opportunity and sizing
