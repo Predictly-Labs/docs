@@ -6,49 +6,13 @@ Complete guide to setting up your wallet for Predictly.
 
 Predictly supports multiple wallet options:
 
-| Wallet            | Type              | Best For          | Setup Time |
-| ----------------- | ----------------- | ----------------- | ---------- |
-| **Email (Privy)** | Embedded          | Beginners         | 1 minute   |
-| **Nightly**       | Browser Extension | Advanced users    | 3 minutes  |
-| **Petra**         | Browser Extension | Aptos users       | 3 minutes  |
-| **Martian**       | Browser Extension | Multi-chain users | 3 minutes  |
+| Wallet      | Type              | Best For       | Setup Time |
+| ----------- | ----------------- | -------------- | ---------- |
+| **Nightly** | Browser Extension | Advanced users | 3 minutes  |
 
----
+***
 
-## Option 1: Email Wallet (Recommended for Beginners)
-
-### Setup
-
-1. Go to [Predictly](https://predictly-labs.vercel.app)
-2. Click **"Connect Wallet"**
-3. Select **"Continue with Email"**
-4. Enter your email
-5. Check inbox for verification code
-6. Enter code
-7. ✅ Done!
-
-### What You Get
-
-- **Automatic wallet creation** - No manual setup
-- **Email recovery** - Reset access via email
-- **No seed phrases** - Nothing to write down
-- **Instant access** - Start using immediately
-
-### Security
-
-- Wallet is encrypted and stored securely
-- Only you can access via email verification
-- Enable 2FA for extra security (recommended)
-
-### Limitations
-
-- Email-based recovery only
-- Can't export to other wallets easily
-- Requires Privy account
-
----
-
-## Option 2: Nightly Wallet
+## Recommenduusing: Nightly Wallet
 
 ### Installation
 
@@ -62,28 +26,20 @@ Predictly supports multiple wallet options:
 ### Setup
 
 1. **Create Password**
-
-   - Choose strong password
-   - Confirm password
-   - Click "Continue"
-
+   * Choose strong password
+   * Confirm password
+   * Click "Continue"
 2. **Save Recovery Phrase**
-
-   - Write down 12 words **on paper**
-   - Store in safe place
-   - **NEVER share with anyone**
-   - Click "I've saved it"
-
+   * Write down 12 words **on paper**
+   * Store in safe place
+   * **NEVER share with anyone**
+   * Click "I've saved it"
 3. **Verify Recovery Phrase**
-
-   - Enter words in correct order
-   - Click "Confirm"
-
+   * Enter words in correct order
+   * Click "Confirm"
 4. **Select Network**
-
-   - Choose **"Movement Testnet"**
-   - Click "Done"
-
+   * Choose **"Movement Testnet"**
+   * Click "Done"
 5. ✅ Wallet ready!
 
 ### Connect to Predictly
@@ -94,7 +50,7 @@ Predictly supports multiple wallet options:
 4. Approve connection in popup
 5. ✅ Connected!
 
----
+***
 
 ## Option 3: Petra Wallet
 
@@ -109,38 +65,28 @@ Predictly supports multiple wallet options:
 ### Setup
 
 1. **Accept Terms**
-
-   - Read terms of service
-   - Click "Accept"
-
+   * Read terms of service
+   * Click "Accept"
 2. **Create Password**
-
-   - Enter strong password
-   - Confirm password
-   - Click "Continue"
-
+   * Enter strong password
+   * Confirm password
+   * Click "Continue"
 3. **Save Recovery Phrase**
-
-   - Click "Reveal"
-   - Write down 12 words
-   - Store securely
-   - Click "Continue"
-
+   * Click "Reveal"
+   * Write down 12 words
+   * Store securely
+   * Click "Continue"
 4. **Verify Phrase**
-
-   - Select words in order
-   - Click "Continue"
-
+   * Select words in order
+   * Click "Continue"
 5. **Switch to Movement**
-
-   - Click Settings (gear icon)
-   - Click "Network"
-   - Select **"Movement Testnet"**
-   - Or add custom:
-     - Name: Movement Testnet
-     - RPC: `https://testnet.movementnetwork.xyz/v1`
-     - Chain ID: 177
-
+   * Click Settings (gear icon)
+   * Click "Network"
+   * Select **"Movement Testnet"**
+   * Or add custom:
+     * Name: Movement Testnet
+     * RPC: `https://testnet.movementnetwork.xyz/v1`
+     * Chain ID: 177
 6. ✅ Ready!
 
 ### Connect to Predictly
@@ -151,7 +97,7 @@ Predictly supports multiple wallet options:
 4. Approve connection
 5. ✅ Connected!
 
----
+***
 
 ## Option 4: Martian Wallet
 
@@ -171,11 +117,11 @@ Similar to Petra:
 2. Save recovery phrase (12 words)
 3. Verify phrase
 4. Add Movement Network:
-   - Settings → Networks
-   - Add Custom Network
-   - Name: Movement Testnet
-   - RPC: `https://testnet.movementnetwork.xyz/v1`
-   - Chain ID: 177
+   * Settings → Networks
+   * Add Custom Network
+   * Name: Movement Testnet
+   * RPC: `https://testnet.movementnetwork.xyz/v1`
+   * Chain ID: 177
 
 ### Connect to Predictly
 
@@ -185,44 +131,37 @@ Similar to Petra:
 4. Approve connection
 5. ✅ Connected!
 
----
+***
 
 ## Getting Test MOVE Tokens
 
 ### Using the Faucet
 
 1. Copy your wallet address:
-
-   - Click wallet extension
-   - Click "Copy Address"
-   - Or copy from Predictly (top-right)
-
+   * Click wallet extension
+   * Click "Copy Address"
+   * Or copy from Predictly (top-right)
 2. Go to [Movement Faucet](https://faucet.movementnetwork.xyz/)
-
 3. Paste your address
-
 4. Complete CAPTCHA
-
 5. Click **"Request Tokens"**
-
 6. Wait 10-30 seconds
-
 7. ✅ Check wallet - you should have 1 MOVE
 
 ### Faucet Limits
 
-- **Amount:** 1 MOVE per request
-- **Frequency:** Once per 24 hours per address
-- **Network:** Testnet only (no real value)
+* **Amount:** 1 MOVE per request
+* **Frequency:** Once per 24 hours per address
+* **Network:** Testnet only (no real value)
 
 ### If Faucet Fails
 
-- Wait 24 hours and try again
-- Try different browser
-- Clear cache and cookies
-- Ask in Discord for help
+* Wait 24 hours and try again
+* Try different browser
+* Clear cache and cookies
+* Ask in Discord for help
 
----
+***
 
 ## Security Best Practices
 
@@ -230,51 +169,51 @@ Similar to Petra:
 
 ✅ **DO:**
 
-- Write on paper, store in safe
-- Use metal backup (fireproof)
-- Split and store in multiple locations
-- Memorize if possible
+* Write on paper, store in safe
+* Use metal backup (fireproof)
+* Split and store in multiple locations
+* Memorize if possible
 
 ❌ **DON'T:**
 
-- Screenshot or save digitally
-- Share with anyone (even support)
-- Store in cloud or email
-- Take photos
+* Screenshot or save digitally
+* Share with anyone (even support)
+* Store in cloud or email
+* Take photos
 
 ### Password Security
 
 ✅ **DO:**
 
-- Use 12+ characters
-- Mix letters, numbers, symbols
-- Use password manager
-- Enable 2FA when available
+* Use 12+ characters
+* Mix letters, numbers, symbols
+* Use password manager
+* Enable 2FA when available
 
 ❌ **DON'T:**
 
-- Reuse passwords
-- Use simple passwords
-- Share with others
-- Write in plain text
+* Reuse passwords
+* Use simple passwords
+* Share with others
+* Write in plain text
 
 ### General Security
 
 ✅ **DO:**
 
-- Verify URLs before connecting
-- Check transaction details
-- Keep browser updated
-- Use antivirus software
+* Verify URLs before connecting
+* Check transaction details
+* Keep browser updated
+* Use antivirus software
 
 ❌ **DON'T:**
 
-- Click suspicious links
-- Approve unknown transactions
-- Use public WiFi for transactions
-- Install untrusted extensions
+* Click suspicious links
+* Approve unknown transactions
+* Use public WiFi for transactions
+* Install untrusted extensions
 
----
+***
 
 ## Troubleshooting
 
@@ -320,13 +259,13 @@ Similar to Petra:
 
 **Solution:**
 
-- **Email wallet:** Reset via email
-- **Web3 wallet:** **NO RECOVERY POSSIBLE**
-  - Create new wallet
-  - Transfer funds before losing access
-  - Always backup recovery phrase!
+* **Email wallet:** Reset via email
+* **Web3 wallet:** **NO RECOVERY POSSIBLE**
+  * Create new wallet
+  * Transfer funds before losing access
+  * Always backup recovery phrase!
 
----
+***
 
 ## Switching Wallets
 
@@ -335,9 +274,9 @@ Similar to Petra:
 1. Create Web3 wallet (see above)
 2. Get wallet address
 3. In Predictly:
-   - Go to Settings
-   - Click "Export Private Key" (if available)
-   - Or transfer funds manually
+   * Go to Settings
+   * Click "Export Private Key" (if available)
+   * Or transfer funds manually
 4. Disconnect email wallet
 5. Connect Web3 wallet
 
@@ -348,14 +287,14 @@ Similar to Petra:
 3. Or create new and transfer funds
 4. Connect new wallet to Predictly
 
----
+***
 
 ## Next Steps
 
 **Wallet ready?** Continue to:
 
-- [Getting Started](Getting-Started.md) - Complete beginner guide
-- [Creating Markets](Creating-Markets.md) - Make predictions
-- [Voting Guide](Voting-Guide.md) - Place your first vote
+* [Getting Started](Getting-Started.md) - Complete beginner guide
+* [Creating Markets](Creating-Markets.md) - Make predictions
+* [Voting Guide](Voting-Guide.md) - Place your first vote
 
 **Need help?** Check [Troubleshooting](../Resources/Troubleshooting.md)
