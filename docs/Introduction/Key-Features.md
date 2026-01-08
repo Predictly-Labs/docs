@@ -19,7 +19,7 @@ Standard prediction markets with full risk/reward. Winners take the losing pool.
 
 ### Zero Loss Markets
 
-Protected markets using DeFi yield farming. Principal protected, winners earn yield. (Coming soon)
+Protected markets using DeFi yield farming. Principal protected, winners earn yield.&#x20;
 
 ### Private Markets
 
@@ -38,9 +38,9 @@ Group-exclusive markets. Only members can participate.
 
 Fair market resolution through trusted judges.
 
-- Judges assigned by group admins
-- Resolution recorded on blockchain
-- Multiple judges supported per group
+* Judges assigned by group admins
+* Resolution recorded on blockchain
+* Multiple judges supported per group
 
 ## Wallet Integration
 
