@@ -114,7 +114,7 @@ Predictly generates revenue through two primary streams:
 
 ### 2. Subscription Plans
 
-#### Pro Plan - $29/month
+#### Pro Plan - $10/month
 
 **Target:** Power users and active group admins
 
@@ -127,7 +127,7 @@ Predictly generates revenue through two primary streams:
 * Export data and reports
 * Early access to new features
 
-#### Enterprise Plan - $99/month
+#### Enterprise Plan - $20/month
 
 **Target:** Large communities and organizations
 
@@ -220,7 +220,7 @@ Predictly generates revenue through two primary streams:
 
 * ✅ Develop Predictly dApp (frontend, backend, smart contracts)
 * ✅ Establish brand identity and positioning
-* ✅ Submit to Movement Mammothon Hackathon
+* ✅ Submit to Movement M1 Hackathon
 * ✅ Deploy to Movement Testnet (Bardock)
 
 **Achievements:**
